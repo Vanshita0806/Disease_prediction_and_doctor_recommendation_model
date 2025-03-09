@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctor Details</title>
+    <link rel="stylesheet" href="style_doctor_detail.css">
+</head>
+<body>
+    <h2>Doctor Details Page</h2>
+    <p>Fetching doctor details...</p>
+
+    <script>
+        // Extract doctor ID from URL
+const urlParams = new URLSearchParams(window.location.search);
+const doctorId = urlParams.get("id");
+
+if (doctorId) {
+    fetch(`http://127.0.0.1:8000/get_doctor_details?id=${doctorId}`)
+    .then(response => {
+        if (!response.ok) {
+            throw new Error("Network response was not ok");
+        }
+        return response.json();
+    })
+    .then(data => {
+        console.log("Fetched Doctor Data:", data); // Debugging
+
+        if (!data || Object.keys(data).length === 0) {
+            document.body.innerHTML = "<p>Doctor details not found.</p>";
+            return;
+        }
+
+        // Update the page with doctor details
+        document.body.innerHTML = `<div class = "doctor-detail">
+            <h2>Doctor Details</h2>
+            <p><strong>Doctor ID:</strong> ${data["Doctor ID"] || "N/A"}</p>
+            <p><strong>Name:</strong> ${data["Doctor Name"] || "N/A"}</p>
+            <p><strong>Specialization:</strong> ${data["Specialization"] || "N/A"}</p>
+            <p><strong>Experience:</strong> ${data["Experience (Years)"] || "N/A"} years</p>
+            <p><strong>Location:</strong> ${data["Location"] || "N/A"}</p>
+            <p><strong>Consultation Fee:</strong> ${data["Consultation Fee"] || "N/A"} INR</p>
+            <p><strong>Availability:</strong> ${data["Availability"] || "N/A"}</p>
+            <p><strong>Insurance Accepted:</strong> ${data["Insurance Accepted"] || "N/A"}</p>
+            <p><strong>Disease:</strong> ${data["Disease"] || "N/A"}</p>
+            <p><strong>Score:</strong> ${data["Score"] ? (data["Score"] * 100).toFixed(2) + "%" : "N/A"}</p>
+            <button onclick="bookDoctor('${doctorId}', '${data["Doctor Name"]}')">Book Doctor</button>
+        </div>
+        `;
+
+
+    })
+    .catch(error => {
+        console.error("Error fetching doctor details:", error);
+        document.body.innerHTML = "<p>Error fetching doctor details. Please try again.</p>";
+    });
+} else {
+    document.body.innerHTML = "<p>Invalid doctor ID.</p>";
+}
+function bookDoctor(doctorId, doctorName) {
+            alert(`Doctor ${doctorName} (ID: ${doctorId}) has been successfully booked!`);
+        }
+
+
+    </script>
+</body>
+</html>

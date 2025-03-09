@@ -1,0 +1,394 @@
+body{
+    background-image: url("back_img.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+    padding : 0;
+}
+
+.container1{
+    background-color: white;
+    border: 1px solid black;
+    width:60%;
+    border-radius: 30px;
+    margin-left: 50px;
+    padding: 20px;
+}
+
+.heading{
+    text-align: left;
+    padding: 20px;
+    color: black;
+    
+}
+
+.heading h1{
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+}
+
+.container1 h2 {
+    font-size: 2rem;
+    font-weight: normal;
+    text-align: center;
+}
+
+.info-box{
+    background:seashell; 
+    padding: 15px;
+    margin-left: 220px;
+    width: 50%; 
+    border: 2px solid black;
+    border-radius: 30px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2); 
+    text-align: center;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.info-box:hover {
+    box-shadow: 0px 0px 20px rgba(0, 123, 255, 0.7); 
+
+    transform: scale(1.05); 
+}
+
+.left{
+    display:flex;
+    gap: 15px;
+    margin-left: 270px;
+    margin-top: 60px;
+}
+
+.left button{
+    background: orange;
+    color: #333;
+    font-size: 1.2rem;
+    padding: 12px 20px;
+    border: 2px solid black;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.left button:hover {
+    background: #ebf2be; 
+    transform: scale(1.05); 
+}
+
+.symp-text{
+    margin-left: 370px;
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 30px;
+    font-weight: bold;
+    margin-top: 30px;;
+}
+
+#search-symptoms {
+    width: 60%;  
+    padding: 12px 15px;  
+    font-size: 1rem;
+    border: 2px solid #080808;  
+    border-radius: 20px; 
+    outline: none;  
+    margin-left: 50px;
+    display: block; 
+}
+
+/* focus on click to search box applies styling*/
+#search-symptoms:focus {
+    border-color: #0056b3; 
+    box-shadow: 0 0 8px rgba(0, 91, 187, 0.5); 
+}
+
+/* Placeholder text styling */
+#search-symptoms::placeholder {
+    color: #888;
+    font-style: italic;
+}
+
+
+/* Container for symptoms */
+.symptom-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+    margin-top: 10px;
+    max-width: 60%;
+    margin-left: 50px;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    overflow-y: auto;
+    max-height: 400px;
+}
+
+/* Individual symptom (checkbox & label inside) */
+.symptom {
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    cursor: pointer;
+    user-select: none;
+    font-size: 1rem;
+    flex: 1 1 calc(33.33% - 20px);
+}
+
+/* Hide default checkbox */
+.symptom input[type="checkbox"] {
+    display: none;
+}
+
+/* Custom checkbox effect */
+.symptom label {
+    cursor: pointer;
+    padding: 3px 12px;
+    border-radius: 15px;
+    background:#ecf9f4;
+    border: 1px solid #b3b1b1;
+}
+
+/* Hover effect */
+.symptom label:hover {
+    transform: scale(1.05);
+}
+
+/* Selected symptom effect */
+.symptom input[type="checkbox"]:checked + label {
+    background:blue;
+    color: rgb(247, 246, 246);
+    border: 1px solid rgb(18, 18, 17);
+}
+
+.btn-container{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 410px;
+    gap:10px;
+}
+
+.btn-container button {
+    background-color: #ffd000; 
+    color: rgb(10, 7, 7); 
+    font-size: 1.2rem;
+    padding: 12px 24px;
+    border-color: black;
+    border-radius: 20px; 
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.btn-container button:hover{
+    transform: scale(1.05);
+    background-color: greenyellow;
+}
+
+.btn-container .back-btn:hover{
+    transform: scale(1.05);
+    background-color: rgb(177, 13, 13);
+}
+
+#result{
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #f8f2e3;
+    border: 3px solid #0c0e10;
+    border-radius: 30px;
+    font-size: 1.2rem;
+    color: black;
+    text-align: left;
+    margin-left: 270px;
+    width: 30%;
+    display: none; /* Initially hidden */
+}
+
+#result h3 {
+    color: #2972c0;
+    text-align: center;
+}
+
+#result:hover{
+    transform: scale(1.01);
+}
+
+.btn button{
+    background-color: orange; 
+    color: rgb(10, 7, 7); 
+    font-size: 1.2rem;
+    padding: 12px 24px;
+    border-color: black;
+    border-radius: 20px; 
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+#getDescriptionBtn{
+    margin-top: 20px;
+    margin-left: 350px;
+}
+
+#recommendDoctorBtn{
+    margin-top: 10px;
+    margin-left: 400px;
+}
+
+.btn button:hover{
+    transform: scale(1.05);
+    background-color: greenyellow;
+}
+
+#descriptionResults {
+    display: none;
+    background-color: #f9f9f9; 
+    border: 2px solid #007bff; 
+    border-radius: 10px; 
+    padding: 15px; 
+    margin-top: 20px; 
+    max-width: 60%; 
+    margin-left: 50px;
+    margin-right: auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+#descriptionResults h3 {
+    font-size: 2rem;
+    text-align: center;
+    color: #007bff; 
+    margin-bottom: 10px;
+}
+
+#descriptionResults h4 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-top: 15px;
+}
+
+#descriptionResults p {
+    font-size: 1rem;
+    color: #444;
+    line-height: 1.5;
+}
+
+#descriptionResults ul {
+    margin-left: 20px;
+}
+
+#descriptionResults li {
+    font-size: 0.95rem;
+    color: #555;
+    padding: 5px 0;
+}
+
+#descriptionResults hr {
+    border: none;
+    height: 1px;
+    background: #ddd;
+    margin: 15px 0;
+}
+
+#recommend-section {
+    display: none;
+    width: 60%;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+#recommend-section h2 {
+    color: #333;
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+#recommend-section select {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+
+#recommend-section button {
+    background-color: #007bff;
+    color: white;
+    font-size: 1rem;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 10px 5px;
+}
+
+#recommend-section button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+#doctor-list {
+    display: none;
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+#doctor-list h3{
+    font-size: 2rem;
+}
+
+.doctor-card {
+    background: white;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    border-left: 5px solid #007bff;
+}
+
+.doctor-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.doctor-card p{
+    font-size: 1.5rem;
+}
+
+.doctor-card button {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* Hover effect for buttons */
+.doctor-card button:hover {
+    background: #0056b3;
+}
+
+#recommend-section .back-btn1:hover{
+    transform: scale(1.05);
+    background-color: rgb(237, 78, 78);
+}

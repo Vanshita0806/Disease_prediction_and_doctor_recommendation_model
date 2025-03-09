@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Prediction & Doctor Booking</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+
+    <!-- Landing Page -->
+    <div id="landing">
+        <div class = "heading">
+            <h1>Disease Prediction & Doctor Recommendation</h1>
+        </div>
+            <div class="container1">
+            <h2>Empowering your health, uplifting your life!!</h2>
+
+        <div class="info-box">
+            <p>Our AI-based system helps you identify potential diseases based on symptoms and connects you with expert doctors for treatment.<br>
+                Simply select your symptoms, and our AI predicts possible diseases with essential details and precautions. Find the best doctors for your condition and book appointments instantly. Your health, our priority—start your journey to better well-being today!</p>
+        </div>
+
+        <div class ="left">
+            <button onclick="showPredictForm()">Predict Disease</button>
+            <button onclick="window.location.href='recommend_doctor.html'">Recommend Doctor</button>
+            <br>
+        </div>
+        </div>
+        
+    </div>
+
+    <!-- Disease Prediction Section -->
+    <div id="predict-section" style="display: none;">
+        <h2 class="symp-text">Select Symptoms</h2>
+        <input type="text" id="search-symptoms" placeholder="Search symptoms..." onkeyup="filterSymptoms()">
+        <div id="symptom-options"class="symptom-container"></div>
+        <br>
+        <div class = "btn-container">
+            <button onclick="predictDisease()">Predict</button>
+            <button class = "back-btn" onclick="goBack()">Back</button>
+        </div>
+        
+        <div id="result"></div>
+        
+         <div class="btn">
+            <!-- Buttons for further actions (Hidden Initially) -->
+            <button id="getDescriptionBtn" style="display: none;" onclick="fetchDescriptions()">Show Description & Precaution</button>
+            <div id="descriptionResults"></div>
+            
+            <!-- This button appears below the description dynamically -->
+            <button id="recommendDoctorBtn" style="display: none;" onclick="showRecommendForm()">Recommend Doctor</button>
+         </div>
+            
+    </div>
+
+    <!-- Doctor Recommendation Section -->
+    <div id="recommend-section" style="display: none;">
+        <h2>Select a Disease</h2>
+        <select id="disease-dropdown">
+            <option value="">-- Select Disease --</option>
+        </select>
+    <h2>Select Location</h2>
+    <select id="location-dropdown">
+        <option value="">Loading locations...</option>
+    </select>
+        <button onclick="recommendDoctor()">Find Doctors</button>
+        
+        <div id="doctor-list"></div>
+        <button class = "back-btn1" onclick="goBack()">Back</button>
+    </div>
+
+</body>
+</html>

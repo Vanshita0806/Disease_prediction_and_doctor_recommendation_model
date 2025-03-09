@@ -1,0 +1,1001 @@
+Doctor Name,Specialization,Experience (Years),Consultation Fee ($),Location,Availability,Insurance Accepted,Patient Rating,Number of Ratings,Doctor ID
+Dr. Sharma 89,Dermatology,6,967,Jaipur,Weekends,Not Accepted,4.5,810,DOC00000
+Dr. Sharma 13,Neurology,24,839,Kolkata,Weekends,Accepted,4.8,491,DOC00003
+Dr. Iyer 22,Dermatology,11,631,Pune,Afternoon Shift,Not Accepted,3.2,368,DOC00004
+Dr. Sharma 69,Neurology,16,504,Hyderabad,Evenings,Not Accepted,4.7,980,DOC00008
+Dr. Iyer 88,Gastroenterology,30,768,Ahmedabad,Weekends,Not Accepted,3.9,12,DOC00010
+Dr. Ghosh 48,Immunology,38,658,Chennai,Weekends,Not Accepted,4.5,383,DOC00013
+Dr. Kumar 28,Pulmonology,40,484,Ahmedabad,Afternoon Shift,Not Accepted,3.9,251,DOC00015
+Dr. Verma 59,Orthopedics,38,672,Jaipur,Afternoon Shift,Not Accepted,3.4,39,DOC00017
+Dr. Mehta 42,Endocrinology,12,272,Delhi,Weekends,Accepted,4.9,998,DOC00018
+Dr. Verma 62,Immunology,21,801,Pune,Afternoon Shift,Accepted,4.4,901,DOC00020
+Dr. Sharma 90,Hepatology,27,502,Kolkata,Evenings,Not Accepted,4.4,121,DOC00024
+Dr. Verma 62,Neurology,29,224,Ahmedabad,Afternoon Shift,Not Accepted,5.0,95,DOC00021
+Dr. Sharma 99,Infectious Disease,28,867,Ahmedabad,Weekends,Not Accepted,4.1,833,DOC00027
+Dr. Kumar 27,Gastroenterology,23,749,Pune,Weekends,Accepted,3.3,183,DOC00028
+Dr. Rao 23,Endocrinology,31,711,Jaipur,Weekends,Not Accepted,3.4,909,DOC00031
+Dr. Ghosh 81,Immunology,11,399,Lucknow,Evenings,Accepted,4.7,54,DOC00034
+Dr. Mehta 2,Hepatology,9,314,Lucknow,Evenings,Not Accepted,4.1,37,DOC00035
+Dr. Das 61,Dermatology,19,409,Jaipur,Monday-Friday,Not Accepted,3.3,520,DOC00039
+Dr. Mehta 24,Urology,30,797,Ahmedabad,Weekends,Not Accepted,3.8,424,DOC00040
+Dr. Iyer 4,Urology,30,920,Kolkata,Monday-Friday,Not Accepted,4.5,85,DOC00041
+Dr. Mehta 86,Infectious Disease,36,393,Lucknow,Evenings,Accepted,4.3,511,DOC00045
+Dr. Das 61,Cardiology,24,519,Jaipur,Afternoon Shift,Accepted,3.7,697,DOC00038
+Dr. Ghosh 47,Dermatology,19,762,Delhi,Evenings,Accepted,4.5,491,DOC00046
+Dr. Mehta 84,Dermatology,28,527,Bangalore,Monday-Friday,Not Accepted,4.8,629,DOC00049
+Dr. Das 86,Gastroenterology,27,354,Pune,Weekends,Not Accepted,4.9,289,DOC00051
+Dr. Das 51,Neurology,31,902,Ahmedabad,Evenings,Not Accepted,4.1,902,DOC00054
+Dr. Iyer 77,General Medicine,16,626,Bangalore,Evenings,Not Accepted,3.8,792,DOC00056
+Dr. Rao 57,Gastroenterology,21,334,Lucknow,Monday-Friday,Accepted,4.1,249,DOC00058
+Dr. Iyer 47,General Medicine,9,482,Hyderabad,Weekends,Accepted,5.0,996,DOC00059
+Dr. Iyer 88,Dermatology,13,928,Ahmedabad,Evenings,Not Accepted,4.1,310,DOC00009
+Dr. Kumar 87,Endocrinology,16,202,Delhi,Weekends,Accepted,4.4,633,DOC00060
+Dr. Sharma 90,Gastroenterology,13,497,Lucknow,Afternoon Shift,Not Accepted,4.6,220,DOC00023
+Dr. Ghosh 68,Cardiology,19,493,Bangalore,Afternoon Shift,Accepted,3.3,363,DOC00062
+Dr. Rao 22,Pulmonology,40,910,Hyderabad,Weekends,Accepted,4.8,871,DOC00064
+Dr. Iyer 82,Rheumatology,26,433,Jaipur,Afternoon Shift,Accepted,4.5,85,DOC00068
+Dr. Kumar 37,Dermatology,29,710,Mumbai,Monday-Friday,Not Accepted,4.9,577,DOC00069
+Dr. Ghosh 80,Pulmonology,17,412,Chennai,Evenings,Not Accepted,3.2,911,DOC00070
+Dr. Kumar 35,Pulmonology,12,535,Jaipur,Monday-Friday,Accepted,3.9,40,DOC00071
+Dr. Mehta 22,Hepatology,22,757,Chennai,Weekends,Accepted,3.4,935,DOC00072
+Dr. Mehta 58,Hepatology,16,654,Lucknow,Afternoon Shift,Accepted,3.9,347,DOC00074
+Dr. Ghosh 73,Infectious Disease,11,298,Kolkata,Afternoon Shift,Not Accepted,4.1,759,DOC00075
+Dr. Verma 98,Pulmonology,16,882,Kolkata,Afternoon Shift,Not Accepted,4.5,186,DOC00077
+Dr. Mehta 41,Endocrinology,30,984,Bangalore,Evenings,Not Accepted,4.3,283,DOC00079
+Dr. Das 2,Hepatology,8,764,Ahmedabad,Weekends,Accepted,4.3,185,DOC00080
+Dr. Mehta 92,Rheumatology,17,300,Hyderabad,Evenings,Accepted,3.9,254,DOC00081
+Dr. Ghosh 47,Urology,30,584,Pune,Afternoon Shift,Not Accepted,4.9,676,DOC00048
+Dr. Verma 46,Dermatology,10,746,Ahmedabad,Afternoon Shift,Not Accepted,3.8,514,DOC00083
+Dr. Sharma 6,Urology,31,343,Delhi,Evenings,Not Accepted,4.3,831,DOC00087
+Dr. Sharma 50,Neurology,6,558,Ahmedabad,Afternoon Shift,Accepted,3.3,594,DOC00088
+Dr. Verma 9,Neurology,30,717,Delhi,Weekends,Not Accepted,4.4,126,DOC00089
+Dr. Sharma 98,Pulmonology,9,834,Mumbai,Afternoon Shift,Accepted,4.7,986,DOC00091
+Dr. Mehta 25,Immunology,9,583,Chennai,Monday-Friday,Accepted,4.1,864,DOC00092
+Dr. Sharma 4,Infectious Disease,36,506,Hyderabad,Evenings,Not Accepted,4.5,703,DOC00095
+Dr. Kumar 48,Dermatology,26,284,Ahmedabad,Evenings,Accepted,3.7,265,DOC00097
+Dr. Das 49,Endocrinology,30,609,Lucknow,Monday-Friday,Not Accepted,4.2,589,DOC00099
+Dr. Mehta 30,Cardiology,9,660,Mumbai,Weekends,Accepted,3.0,963,DOC00101
+Dr. Mehta 61,Endocrinology,20,548,Kolkata,Weekends,Not Accepted,4.8,248,DOC00102
+Dr. Iyer 38,Hepatology,32,467,Pune,Afternoon Shift,Not Accepted,4.9,963,DOC00104
+Dr. Sharma 59,Dermatology,26,622,Chennai,Monday-Friday,Accepted,3.0,331,DOC00106
+Dr. Sharma 42,Endocrinology,26,455,Pune,Monday-Friday,Accepted,4.6,820,DOC00107
+Dr. Kumar 44,Endocrinology,8,354,Delhi,Afternoon Shift,Accepted,4.1,82,DOC00109
+Dr. Mehta 35,Pulmonology,18,531,Hyderabad,Evenings,Accepted,4.1,76,DOC00110
+Dr. Verma 92,Endocrinology,33,218,Pune,Weekends,Not Accepted,3.2,939,DOC00111
+Dr. Sharma 35,Cardiology,23,865,Delhi,Monday-Friday,Not Accepted,3.7,866,DOC00112
+Dr. Das 98,Gastroenterology,18,886,Delhi,Afternoon Shift,Accepted,4.6,132,DOC00114
+Dr. Rao 2,Rheumatology,16,925,Jaipur,Afternoon Shift,Not Accepted,3.3,478,DOC00117
+Dr. Iyer 31,Immunology,13,877,Pune,Monday-Friday,Not Accepted,4.5,72,DOC00118
+Dr. Kumar 40,Hepatology,19,463,Jaipur,Monday-Friday,Not Accepted,3.5,343,DOC00120
+Dr. Das 52,Dermatology,22,252,Delhi,Evenings,Accepted,4.8,422,DOC00121
+Dr. Iyer 40,Hepatology,18,424,Hyderabad,Monday-Friday,Not Accepted,4.1,160,DOC00122
+Dr. Ghosh 93,Endocrinology,27,722,Delhi,Afternoon Shift,Accepted,5.0,126,DOC00123
+Dr. Iyer 57,Hepatology,19,727,Kolkata,Evenings,Accepted,4.5,954,DOC00125
+Dr. Das 28,Neurology,32,653,Ahmedabad,Afternoon Shift,Accepted,4.8,627,DOC00126
+Dr. Ghosh 8,Gastroenterology,31,332,Lucknow,Weekends,Not Accepted,3.9,162,DOC00128
+Dr. Kumar 7,General Medicine,40,651,Delhi,Afternoon Shift,Accepted,4.5,430,DOC00129
+Dr. Mehta 82,Neurology,7,373,Chennai,Afternoon Shift,Not Accepted,3.5,88,DOC00131
+Dr. Mehta 2,Rheumatology,8,1000,Bangalore,Monday-Friday,Not Accepted,4.5,184,DOC00037
+Dr. Ghosh 19,Toxicology,17,485,Jaipur,Evenings,Accepted,3.4,193,DOC00134
+Dr. Sharma 58,Dermatology,26,664,Jaipur,Evenings,Accepted,3.2,150,DOC00135
+Dr. Iyer 96,Toxicology,6,484,Mumbai,Afternoon Shift,Not Accepted,3.7,818,DOC00138
+Dr. Sharma 56,Orthopedics,6,550,Ahmedabad,Evenings,Not Accepted,4.7,342,DOC00139
+Dr. Verma 59,Hepatology,37,207,Kolkata,Monday-Friday,Accepted,3.8,538,DOC00016
+Dr. Verma 57,Neurology,25,992,Chennai,Evenings,Accepted,3.6,768,DOC00141
+Dr. Ghosh 18,Hepatology,40,381,Hyderabad,Monday-Friday,Not Accepted,4.5,420,DOC00143
+Dr. Sharma 87,Endocrinology,13,248,Delhi,Evenings,Accepted,5.0,505,DOC00144
+Dr. Mehta 75,Toxicology,10,534,Kolkata,Evenings,Not Accepted,3.2,740,DOC00146
+Dr. Ghosh 81,Dermatology,34,313,Mumbai,Weekends,Not Accepted,4.4,220,DOC00033
+Dr. Iyer 50,Dermatology,17,716,Lucknow,Afternoon Shift,Not Accepted,5.0,352,DOC00147
+Dr. Rao 44,Dermatology,27,549,Delhi,Afternoon Shift,Accepted,4.1,814,DOC00149
+Dr. Iyer 78,Cardiology,14,305,Bangalore,Evenings,Not Accepted,3.7,714,DOC00152
+Dr. Verma 56,Rheumatology,37,463,Pune,Weekends,Not Accepted,4.1,913,DOC00154
+Dr. Das 75,Urology,27,310,Lucknow,Evenings,Not Accepted,4.5,395,DOC00155
+Dr. Mehta 87,Infectious Disease,19,457,Pune,Evenings,Accepted,3.1,10,DOC00158
+Dr. Kumar 71,Orthopedics,10,465,Mumbai,Evenings,Not Accepted,4.9,676,DOC00160
+Dr. Ghosh 82,Infectious Disease,12,704,Mumbai,Evenings,Not Accepted,3.1,787,DOC00162
+Dr. Verma 28,Dermatology,30,942,Bangalore,Monday-Friday,Accepted,4.7,286,DOC00164
+Dr. Kumar 34,Hepatology,34,832,Jaipur,Monday-Friday,Not Accepted,3.7,265,DOC00165
+Dr. Kumar 28,Immunology,8,804,Delhi,Monday-Friday,Not Accepted,3.5,172,DOC00014
+Dr. Ghosh 96,Dermatology,31,406,Bangalore,Evenings,Accepted,3.8,729,DOC00166
+Dr. Verma 64,General Medicine,39,211,Jaipur,Weekends,Accepted,3.8,970,DOC00168
+Dr. Sharma 27,Gastroenterology,39,832,Pune,Afternoon Shift,Accepted,3.9,638,DOC00170
+Dr. Verma 42,Hepatology,10,399,Mumbai,Weekends,Not Accepted,3.5,123,DOC00172
+Dr. Das 99,General Medicine,27,299,Kolkata,Weekends,Accepted,4.0,638,DOC00173
+Dr. Ghosh 64,Gastroenterology,27,505,Delhi,Weekends,Not Accepted,4.1,19,DOC00174
+Dr. Verma 17,Neurology,22,651,Hyderabad,Afternoon Shift,Not Accepted,4.0,255,DOC00176
+Dr. Rao 4,Endocrinology,15,472,Hyderabad,Evenings,Accepted,4.1,281,DOC00177
+Dr. Rao 26,Dermatology,6,456,Bangalore,Monday-Friday,Accepted,4.1,769,DOC00179
+Dr. Verma 99,Rheumatology,10,672,Mumbai,Evenings,Accepted,3.3,383,DOC00182
+Dr. Iyer 68,Pulmonology,16,288,Chennai,Weekends,Not Accepted,4.9,286,DOC00183
+Dr. Kumar 12,Rheumatology,36,937,Ahmedabad,Monday-Friday,Not Accepted,3.0,147,DOC00187
+Dr. Sharma 10,Rheumatology,25,657,Mumbai,Evenings,Accepted,4.6,305,DOC00189
+Dr. Rao 94,Dermatology,36,575,Bangalore,Evenings,Accepted,3.3,955,DOC00191
+Dr. Verma 99,Dermatology,34,405,Ahmedabad,Evenings,Accepted,4.5,105,DOC00181
+Dr. Ghosh 95,Gastroenterology,31,887,Pune,Monday-Friday,Not Accepted,3.9,522,DOC00192
+Dr. Kumar 9,Immunology,30,437,Hyderabad,Afternoon Shift,Accepted,4.5,778,DOC00194
+Dr. Mehta 3,Gastroenterology,26,221,Pune,Evenings,Not Accepted,4.0,940,DOC00195
+Dr. Sharma 63,Infectious Disease,16,889,Bangalore,Monday-Friday,Accepted,3.4,815,DOC00198
+Dr. Verma 93,Toxicology,7,666,Pune,Weekends,Not Accepted,3.1,584,DOC00200
+Dr. Das 15,Hepatology,15,650,Delhi,Weekends,Accepted,4.3,547,DOC00201
+Dr. Sharma 64,Infectious Disease,24,632,Pune,Afternoon Shift,Not Accepted,3.1,822,DOC00203
+Dr. Iyer 13,Gastroenterology,34,952,Delhi,Evenings,Not Accepted,3.5,525,DOC00206
+Dr. Iyer 36,Endocrinology,14,507,Chennai,Afternoon Shift,Not Accepted,3.3,518,DOC00210
+Dr. Rao 73,Gastroenterology,30,618,Mumbai,Afternoon Shift,Not Accepted,4.9,590,DOC00213
+Dr. Das 53,Pulmonology,37,315,Mumbai,Monday-Friday,Accepted,4.4,642,DOC00216
+Dr. Verma 65,Hepatology,32,625,Lucknow,Weekends,Accepted,3.4,185,DOC00218
+Dr. Kumar 36,Endocrinology,24,356,Chennai,Monday-Friday,Not Accepted,3.7,647,DOC00219
+Dr. Sharma 14,Pulmonology,37,510,Ahmedabad,Weekends,Not Accepted,4.1,516,DOC00221
+Dr. Kumar 71,Gastroenterology,30,584,Lucknow,Weekends,Not Accepted,4.4,251,DOC00159
+Dr. Das 15,Infectious Disease,7,959,Mumbai,Monday-Friday,Not Accepted,4.3,926,DOC00202
+Dr. Rao 50,Hepatology,14,966,Bangalore,Monday-Friday,Not Accepted,4.7,580,DOC00224
+Dr. Ghosh 79,Hepatology,16,210,Kolkata,Monday-Friday,Accepted,3.0,602,DOC00225
+Dr. Ghosh 88,Gastroenterology,17,703,Ahmedabad,Monday-Friday,Not Accepted,3.0,514,DOC00227
+Dr. Mehta 62,General Medicine,39,342,Delhi,Monday-Friday,Accepted,3.7,188,DOC00228
+Dr. Mehta 71,Dermatology,40,273,Hyderabad,Monday-Friday,Accepted,4.6,194,DOC00230
+Dr. Kumar 86,Urology,10,321,Hyderabad,Evenings,Accepted,4.9,528,DOC00234
+Dr. Sharma 52,Hepatology,27,938,Jaipur,Weekends,Not Accepted,4.9,15,DOC00235
+Dr. Iyer 41,Endocrinology,24,322,Bangalore,Weekends,Accepted,3.0,894,DOC00236
+Dr. Mehta 34,Toxicology,11,251,Pune,Afternoon Shift,Not Accepted,4.4,919,DOC00241
+Dr. Mehta 99,Infectious Disease,28,694,Mumbai,Afternoon Shift,Accepted,4.0,131,DOC00243
+Dr. Iyer 81,Urology,27,881,Kolkata,Afternoon Shift,Not Accepted,3.7,642,DOC00249
+Dr. Mehta 34,Infectious Disease,33,359,Lucknow,Evenings,Not Accepted,3.3,963,DOC00239
+Dr. Das 48,Neurology,32,294,Delhi,Afternoon Shift,Accepted,3.0,303,DOC00250
+Dr. Rao 50,Endocrinology,8,745,Ahmedabad,Weekends,Accepted,3.0,494,DOC00223
+Dr. Kumar 14,Hepatology,40,779,Delhi,Evenings,Not Accepted,3.3,300,DOC00251
+Dr. Ghosh 93,Urology,24,397,Kolkata,Weekends,Accepted,4.2,706,DOC00124
+Dr. Das 81,Rheumatology,21,870,Ahmedabad,Weekends,Accepted,3.7,981,DOC00253
+Dr. Kumar 63,Hepatology,27,533,Lucknow,Evenings,Not Accepted,3.5,961,DOC00254
+Dr. Sharma 35,Dermatology,39,568,Kolkata,Weekends,Accepted,4.2,666,DOC00113
+Dr. Ghosh 49,Gastroenterology,11,375,Hyderabad,Monday-Friday,Accepted,4.1,373,DOC00255
+Dr. Iyer 30,Hepatology,17,471,Chennai,Monday-Friday,Accepted,3.0,874,DOC00258
+Dr. Iyer 49,Dermatology,21,604,Kolkata,Evenings,Not Accepted,3.9,911,DOC00259
+Dr. Das 3,Dermatology,26,640,Ahmedabad,Afternoon Shift,Not Accepted,3.6,957,DOC00261
+Dr. Rao 15,Rheumatology,18,792,Mumbai,Evenings,Not Accepted,4.3,974,DOC00266
+Dr. Ghosh 66,Immunology,30,202,Lucknow,Monday-Friday,Not Accepted,3.1,147,DOC00267
+Dr. Das 80,Dermatology,27,358,Delhi,Weekends,Accepted,4.9,764,DOC00268
+Dr. Verma 55,Endocrinology,19,895,Pune,Monday-Friday,Accepted,3.4,414,DOC00269
+Dr. Mehta 70,Orthopedics,30,946,Mumbai,Evenings,Not Accepted,4.4,392,DOC00272
+Dr. Das 3,Vascular Surgery,24,434,Chennai,Monday-Friday,Accepted,4.9,661,DOC00263
+Dr. Verma 64,Gastroenterology,14,631,Hyderabad,Afternoon Shift,Accepted,3.3,865,DOC00167
+Dr. Mehta 73,Vascular Surgery,24,303,Jaipur,Evenings,Not Accepted,4.5,266,DOC00276
+Dr. Rao 26,Hepatology,5,582,Chennai,Weekends,Not Accepted,3.2,677,DOC00180
+Dr. Das 24,Infectious Disease,28,895,Delhi,Weekends,Accepted,3.8,592,DOC00279
+Dr. Rao 42,Neurology,12,366,Pune,Evenings,Accepted,4.5,936,DOC00282
+Dr. Verma 3,Dermatology,17,400,Pune,Evenings,Accepted,3.1,893,DOC00283
+Dr. Verma 58,Infectious Disease,35,241,Lucknow,Weekends,Not Accepted,4.7,873,DOC00285
+Dr. Sharma 92,Orthopedics,29,407,Chennai,Afternoon Shift,Accepted,4.2,691,DOC00286
+Dr. Verma 30,Gastroenterology,27,380,Chennai,Evenings,Accepted,4.5,501,DOC00287
+Dr. Kumar 19,Hepatology,16,777,Hyderabad,Evenings,Accepted,4.6,517,DOC00289
+Dr. Verma 40,Dermatology,11,610,Ahmedabad,Evenings,Accepted,3.1,667,DOC00290
+Dr. Rao 56,Gastroenterology,17,247,Ahmedabad,Monday-Friday,Not Accepted,3.0,13,DOC00291
+Dr. Sharma 96,Toxicology,9,512,Chennai,Afternoon Shift,Not Accepted,3.6,851,DOC00293
+Dr. Das 19,Hepatology,22,228,Hyderabad,Afternoon Shift,Accepted,3.8,635,DOC00295
+Dr. Sharma 49,Neurology,12,321,Chennai,Evenings,Accepted,4.6,246,DOC00298
+Dr. Verma 65,Cardiology,34,801,Delhi,Afternoon Shift,Accepted,4.2,451,DOC00217
+Dr. Iyer 23,Immunology,39,468,Kolkata,Monday-Friday,Accepted,4.6,222,DOC00300
+Dr. Sharma 20,Vascular Surgery,26,956,Pune,Afternoon Shift,Not Accepted,3.6,595,DOC00304
+Dr. Iyer 53,Gastroenterology,39,601,Chennai,Afternoon Shift,Not Accepted,4.4,149,DOC00305
+Dr. Verma 100,Pulmonology,19,901,Hyderabad,Weekends,Not Accepted,4.4,915,DOC00307
+Dr. Mehta 76,Gastroenterology,31,514,Jaipur,Monday-Friday,Accepted,4.7,586,DOC00309
+Dr. Ghosh 49,Gastroenterology,30,827,Jaipur,Monday-Friday,Not Accepted,4.6,237,DOC00255
+Dr. Ghosh 31,Hepatology,8,258,Lucknow,Afternoon Shift,Accepted,3.4,972,DOC00310
+Dr. Kumar 66,Rheumatology,16,353,Ahmedabad,Afternoon Shift,Accepted,4.5,204,DOC00312
+Dr. Verma 78,Infectious Disease,14,439,Chennai,Evenings,Not Accepted,3.5,640,DOC00313
+Dr. Kumar 9,Endocrinology,27,979,Pune,Monday-Friday,Accepted,4.8,929,DOC00193
+Dr. Sharma 4,Neurology,8,340,Mumbai,Afternoon Shift,Not Accepted,4.3,147,DOC00096
+Dr. Mehta 15,Gastroenterology,24,217,Mumbai,Weekends,Not Accepted,3.9,905,DOC00314
+Dr. Das 19,Infectious Disease,39,638,Lucknow,Weekends,Not Accepted,4.2,326,DOC00296
+Dr. Ghosh 31,Hepatology,25,217,Jaipur,Evenings,Accepted,4.3,702,DOC00310
+Dr. Iyer 55,Infectious Disease,35,572,Delhi,Evenings,Accepted,4.5,764,DOC00319
+Dr. Iyer 42,Infectious Disease,10,832,Ahmedabad,Evenings,Accepted,3.4,116,DOC00322
+Dr. Sharma 66,Endocrinology,17,712,Jaipur,Afternoon Shift,Accepted,4.3,884,DOC00323
+Dr. Verma 37,Dermatology,16,566,Ahmedabad,Weekends,Not Accepted,3.2,175,DOC00325
+Dr. Mehta 73,Cardiology,10,934,Jaipur,Weekends,Not Accepted,3.4,583,DOC00274
+Dr. Sharma 86,Pulmonology,23,650,Kolkata,Evenings,Not Accepted,4.1,980,DOC00328
+Dr. Das 9,Dermatology,38,919,Pune,Weekends,Accepted,4.0,677,DOC00329
+Dr. Mehta 19,Infectious Disease,20,951,Mumbai,Afternoon Shift,Not Accepted,4.7,906,DOC00330
+Dr. Das 49,Gastroenterology,38,740,Lucknow,Monday-Friday,Accepted,4.6,945,DOC00100
+Dr. Kumar 27,Pulmonology,29,355,Mumbai,Evenings,Accepted,4.6,907,DOC00029
+Dr. Iyer 69,Hepatology,24,384,Ahmedabad,Monday-Friday,Accepted,4.4,424,DOC00331
+Dr. Mehta 96,Dermatology,30,510,Bangalore,Monday-Friday,Accepted,3.5,49,DOC00334
+Dr. Kumar 31,Hepatology,24,774,Chennai,Weekends,Accepted,3.8,591,DOC00335
+Dr. Sharma 24,Hepatology,18,378,Pune,Weekends,Not Accepted,3.1,17,DOC00337
+Dr. Rao 92,Hepatology,12,503,Lucknow,Monday-Friday,Not Accepted,4.2,766,DOC00339
+Dr. Ghosh 56,Hepatology,6,361,Hyderabad,Afternoon Shift,Accepted,3.4,208,DOC00340
+Dr. Iyer 30,Endocrinology,27,928,Chennai,Evenings,Not Accepted,3.5,995,DOC00257
+Dr. Iyer 99,Neurology,24,697,Ahmedabad,Monday-Friday,Not Accepted,3.2,25,DOC00342
+Dr. Kumar 96,Toxicology,25,888,Jaipur,Evenings,Accepted,3.6,943,DOC00344
+Dr. Iyer 67,Hepatology,17,381,Chennai,Evenings,Not Accepted,3.4,130,DOC00345
+Dr. Ghosh 18,Endocrinology,26,991,Hyderabad,Weekends,Accepted,3.8,600,DOC00142
+Dr. Iyer 42,Dermatology,9,506,Hyderabad,Afternoon Shift,Not Accepted,4.9,368,DOC00320
+Dr. Verma 72,Infectious Disease,11,862,Mumbai,Evenings,Not Accepted,4.0,231,DOC00348
+Dr. Iyer 11,Hepatology,33,697,Hyderabad,Afternoon Shift,Accepted,4.2,760,DOC00349
+Dr. Ghosh 38,Endocrinology,32,479,Jaipur,Monday-Friday,Accepted,5.0,648,DOC00353
+Dr. Kumar 76,Hepatology,26,733,Lucknow,Monday-Friday,Accepted,3.3,274,DOC00354
+Dr. Sharma 1,Toxicology,23,232,Pune,Monday-Friday,Accepted,4.3,96,DOC00355
+Dr. Ghosh 44,Rheumatology,17,620,Jaipur,Evenings,Accepted,3.0,799,DOC00356
+Dr. Mehta 8,Hepatology,10,713,Ahmedabad,Monday-Friday,Accepted,4.3,944,DOC00357
+Dr. Das 65,Dermatology,11,324,Bangalore,Afternoon Shift,Accepted,4.8,193,DOC00359
+Dr. Rao 55,Vascular Surgery,21,512,Hyderabad,Monday-Friday,Not Accepted,4.5,792,DOC00363
+Dr. Ghosh 78,Dermatology,24,456,Chennai,Monday-Friday,Accepted,3.9,527,DOC00364
+Dr. Sharma 75,Endocrinology,28,584,Bangalore,Afternoon Shift,Not Accepted,3.3,60,DOC00367
+Dr. Kumar 3,Dermatology,34,249,Delhi,Evenings,Not Accepted,3.7,507,DOC00369
+Dr. Ghosh 78,General Medicine,40,238,Chennai,Afternoon Shift,Not Accepted,4.5,207,DOC00365
+Dr. Das 84,Cardiology,33,434,Hyderabad,Weekends,Accepted,4.5,570,DOC00370
+Dr. Kumar 64,Hepatology,17,476,Kolkata,Weekends,Accepted,4.9,12,DOC00371
+Dr. Mehta 87,Infectious Disease,13,732,Bangalore,Afternoon Shift,Not Accepted,5.0,568,DOC00158
+Dr. Ghosh 76,Endocrinology,7,986,Delhi,Weekends,Not Accepted,4.5,862,DOC00372
+Dr. Verma 70,Gastroenterology,36,885,Chennai,Weekends,Not Accepted,3.3,783,DOC00374
+Dr. Das 6,Endocrinology,34,227,Jaipur,Monday-Friday,Accepted,4.0,587,DOC00375
+Dr. Rao 71,Dermatology,12,491,Chennai,Afternoon Shift,Accepted,3.8,804,DOC00376
+Dr. Mehta 36,Hepatology,21,837,Hyderabad,Monday-Friday,Not Accepted,4.7,41,DOC00380
+Dr. Verma 64,Rheumatology,29,591,Hyderabad,Monday-Friday,Accepted,3.3,102,DOC00169
+Dr. Kumar 57,Infectious Disease,5,947,Ahmedabad,Weekends,Accepted,3.8,839,DOC00381
+Dr. Das 89,Cardiology,21,982,Hyderabad,Weekends,Not Accepted,3.2,466,DOC00382
+Dr. Ghosh 59,Gastroenterology,39,498,Mumbai,Evenings,Accepted,3.6,851,DOC00384
+Dr. Iyer 36,Cardiology,26,634,Pune,Weekends,Accepted,4.0,446,DOC00208
+Dr. Ghosh 49,Pulmonology,13,565,Kolkata,Monday-Friday,Not Accepted,3.0,691,DOC00256
+Dr. Ghosh 99,Endocrinology,22,213,Lucknow,Monday-Friday,Not Accepted,4.5,159,DOC00385
+Dr. Das 4,Pulmonology,7,377,Ahmedabad,Evenings,Not Accepted,3.4,197,DOC00386
+Dr. Das 29,Dermatology,28,328,Kolkata,Monday-Friday,Accepted,3.6,124,DOC00387
+Dr. Ghosh 79,Infectious Disease,33,348,Hyderabad,Monday-Friday,Not Accepted,3.0,503,DOC00226
+Dr. Sharma 95,Gastroenterology,16,985,Bangalore,Weekends,Accepted,3.1,548,DOC00389
+Dr. Ghosh 76,Hepatology,23,544,Chennai,Weekends,Accepted,4.8,647,DOC00373
+Dr. Das 62,Hepatology,29,335,Bangalore,Monday-Friday,Not Accepted,4.9,964,DOC00392
+Dr. Das 53,Gastroenterology,6,203,Mumbai,Weekends,Not Accepted,3.1,932,DOC00215
+Dr. Iyer 34,Gastroenterology,36,906,Kolkata,Evenings,Accepted,3.5,561,DOC00393
+Dr. Mehta 28,Gastroenterology,36,756,Pune,Monday-Friday,Not Accepted,4.9,625,DOC00396
+Dr. Mehta 71,Endocrinology,25,932,Kolkata,Monday-Friday,Not Accepted,4.9,723,DOC00231
+Dr. Sharma 49,Gastroenterology,32,568,Pune,Afternoon Shift,Accepted,3.5,452,DOC00297
+Dr. Das 16,Dermatology,23,629,Bangalore,Evenings,Not Accepted,3.6,397,DOC00397
+Dr. Sharma 65,Pulmonology,19,325,Delhi,Evenings,Accepted,4.9,922,DOC00399
+Dr. Verma 46,Dermatology,10,470,Ahmedabad,Evenings,Not Accepted,4.7,346,DOC00083
+Dr. Sharma 97,Gastroenterology,30,919,Lucknow,Evenings,Not Accepted,4.0,308,DOC00400
+Dr. Rao 73,General Medicine,6,991,Delhi,Afternoon Shift,Accepted,3.7,479,DOC00214
+Dr. Das 86,Infectious Disease,5,677,Jaipur,Afternoon Shift,Not Accepted,4.1,926,DOC00052
+Dr. Rao 55,Neurology,35,629,Lucknow,Evenings,Not Accepted,3.6,357,DOC00362
+Dr. Mehta 1,Neurology,18,483,Mumbai,Afternoon Shift,Not Accepted,3.1,926,DOC00403
+Dr. Verma 47,Hepatology,21,779,Chennai,Weekends,Not Accepted,3.4,456,DOC00404
+Dr. Iyer 16,Endocrinology,10,455,Kolkata,Monday-Friday,Accepted,4.5,12,DOC00405
+Dr. Rao 36,Gastroenterology,35,436,Jaipur,Evenings,Not Accepted,4.9,657,DOC00407
+Dr. Rao 31,Endocrinology,12,798,Ahmedabad,Monday-Friday,Accepted,5.0,687,DOC00408
+Dr. Rao 87,Infectious Disease,22,469,Hyderabad,Afternoon Shift,Not Accepted,4.8,584,DOC00412
+Dr. Rao 92,Hepatology,10,309,Mumbai,Afternoon Shift,Accepted,3.7,808,DOC00339
+Dr. Mehta 20,Dermatology,25,1000,Mumbai,Afternoon Shift,Accepted,4.1,88,DOC00413
+Dr. Ghosh 50,Dermatology,6,933,Ahmedabad,Evenings,Not Accepted,4.9,248,DOC00414
+Dr. Verma 37,Immunology,17,449,Lucknow,Evenings,Accepted,4.7,110,DOC00326
+Dr. Verma 46,Gastroenterology,38,440,Mumbai,Evenings,Accepted,3.7,32,DOC00084
+Dr. Rao 98,Toxicology,36,715,Pune,Monday-Friday,Not Accepted,3.1,300,DOC00418
+Dr. Verma 86,Endocrinology,28,668,Mumbai,Evenings,Not Accepted,3.6,64,DOC00421
+Dr. Verma 76,Endocrinology,28,874,Hyderabad,Evenings,Not Accepted,4.7,782,DOC00423
+Dr. Rao 13,Toxicology,15,913,Pune,Weekends,Not Accepted,3.1,915,DOC00426
+Dr. Das 28,Pulmonology,31,542,Hyderabad,Evenings,Not Accepted,3.1,59,DOC00127
+Dr. Rao 15,Endocrinology,32,607,Lucknow,Afternoon Shift,Accepted,3.3,572,DOC00264
+Dr. Kumar 12,Endocrinology,32,629,Delhi,Weekends,Accepted,4.8,383,DOC00186
+Dr. Mehta 83,Urology,9,492,Pune,Evenings,Not Accepted,4.5,33,DOC00428
+Dr. Rao 99,Gastroenterology,8,696,Kolkata,Afternoon Shift,Not Accepted,4.5,756,DOC00429
+Dr. Ghosh 63,Orthopedics,20,886,Bangalore,Weekends,Not Accepted,3.6,204,DOC00430
+Dr. Mehta 14,Endocrinology,26,571,Mumbai,Evenings,Accepted,3.9,979,DOC00432
+Dr. Rao 42,Hepatology,40,228,Ahmedabad,Evenings,Accepted,3.6,794,DOC00281
+Dr. Iyer 89,Endocrinology,35,929,Hyderabad,Weekends,Not Accepted,4.3,462,DOC00435
+Dr. Ghosh 17,Dermatology,15,285,Lucknow,Afternoon Shift,Not Accepted,3.8,752,DOC00439
+Dr. Rao 48,Endocrinology,6,771,Chennai,Monday-Friday,Accepted,3.3,882,DOC00440
+Dr. Mehta 78,Hepatology,10,204,Pune,Evenings,Not Accepted,3.1,523,DOC00444
+Dr. Kumar 86,Endocrinology,14,461,Pune,Weekends,Not Accepted,3.1,581,DOC00233
+Dr. Iyer 3,Neurology,40,550,Bangalore,Monday-Friday,Accepted,4.1,90,DOC00446
+Dr. Rao 40,Hepatology,11,232,Jaipur,Weekends,Not Accepted,3.4,240,DOC00448
+Dr. Kumar 48,Dermatology,7,370,Mumbai,Weekends,Not Accepted,3.6,209,DOC00097
+Dr. Sharma 63,Infectious Disease,22,912,Ahmedabad,Monday-Friday,Not Accepted,4.6,457,DOC00198
+Dr. Iyer 13,Cardiology,30,708,Delhi,Evenings,Accepted,4.7,175,DOC00205
+Dr. Mehta 7,Urology,6,747,Bangalore,Monday-Friday,Not Accepted,3.4,687,DOC00451
+Dr. Ghosh 64,Infectious Disease,19,531,Mumbai,Weekends,Accepted,3.1,283,DOC00175
+Dr. Iyer 28,Rheumatology,39,481,Lucknow,Evenings,Not Accepted,3.4,476,DOC00453
+Dr. Das 1,Hepatology,26,537,Jaipur,Evenings,Accepted,3.8,333,DOC00454
+Dr. Das 89,Hepatology,23,625,Pune,Weekends,Not Accepted,4.9,407,DOC00383
+Dr. Sharma 95,Infectious Disease,22,924,Jaipur,Weekends,Accepted,3.0,963,DOC00391
+Dr. Das 59,Infectious Disease,35,308,Pune,Afternoon Shift,Accepted,3.2,720,DOC00455
+Dr. Das 92,Gastroenterology,27,818,Lucknow,Weekends,Accepted,4.8,86,DOC00456
+Dr. Mehta 94,Toxicology,9,364,Jaipur,Weekends,Not Accepted,3.8,993,DOC00457
+Dr. Mehta 100,Dermatology,35,319,Chennai,Monday-Friday,Not Accepted,4.9,808,DOC00458
+Dr. Mehta 12,Hepatology,36,508,Ahmedabad,Monday-Friday,Not Accepted,4.5,653,DOC00459
+Dr. Rao 87,Gastroenterology,21,637,Pune,Weekends,Not Accepted,4.4,530,DOC00411
+Dr. Das 24,Gastroenterology,27,473,Bangalore,Monday-Friday,Accepted,4.3,265,DOC00278
+Dr. Verma 55,General Medicine,26,974,Pune,Monday-Friday,Accepted,3.9,986,DOC00271
+Dr. Das 25,Rheumatology,34,259,Pune,Evenings,Accepted,4.6,789,DOC00460
+Dr. Ghosh 82,Neurology,34,261,Chennai,Weekends,Not Accepted,3.1,636,DOC00163
+Dr. Rao 95,Cardiology,10,871,Lucknow,Monday-Friday,Accepted,4.0,792,DOC00461
+Dr. Kumar 14,Pulmonology,13,700,Hyderabad,Weekends,Accepted,5.0,521,DOC00252
+Dr. Rao 90,Endocrinology,27,877,Hyderabad,Afternoon Shift,Not Accepted,4.9,630,DOC00463
+Dr. Mehta 56,General Medicine,11,569,Lucknow,Monday-Friday,Accepted,4.2,486,DOC00466
+Dr. Sharma 39,Infectious Disease,9,293,Chennai,Afternoon Shift,Accepted,3.9,275,DOC00469
+Dr. Das 97,Gastroenterology,30,791,Bangalore,Monday-Friday,Not Accepted,4.6,873,DOC00471
+Dr. Kumar 96,Endocrinology,20,429,Kolkata,Afternoon Shift,Accepted,4.6,598,DOC00343
+Dr. Sharma 19,Hepatology,34,201,Ahmedabad,Monday-Friday,Not Accepted,4.6,360,DOC00472
+Dr. Rao 94,Dermatology,23,351,Hyderabad,Evenings,Not Accepted,4.4,620,DOC00191
+Dr. Verma 10,Gastroenterology,26,553,Hyderabad,Monday-Friday,Not Accepted,3.3,73,DOC00474
+Dr. Sharma 80,Endocrinology,12,955,Bangalore,Monday-Friday,Accepted,4.7,618,DOC00475
+Dr. Kumar 6,Gastroenterology,27,248,Mumbai,Afternoon Shift,Accepted,4.7,258,DOC00476
+Dr. Verma 41,Hepatology,15,303,Jaipur,Monday-Friday,Accepted,3.8,38,DOC00477
+Dr. Verma 83,Hepatology,6,557,Pune,Evenings,Accepted,4.3,368,DOC00478
+Dr. Ghosh 51,Dermatology,12,726,Bangalore,Monday-Friday,Not Accepted,3.5,404,DOC00479
+Dr. Verma 57,Hepatology,5,843,Pune,Monday-Friday,Not Accepted,4.6,929,DOC00140
+Dr. Sharma 6,Infectious Disease,11,795,Chennai,Afternoon Shift,Not Accepted,4.2,357,DOC00085
+Dr. Ghosh 1,Hepatology,24,419,Ahmedabad,Afternoon Shift,Accepted,3.7,125,DOC00480
+Dr. Iyer 45,Toxicology,8,202,Pune,Afternoon Shift,Not Accepted,3.1,537,DOC00482
+Dr. Verma 27,Gastroenterology,39,421,Lucknow,Weekends,Not Accepted,3.9,827,DOC00484
+Dr. Rao 69,Endocrinology,31,740,Lucknow,Evenings,Not Accepted,3.6,960,DOC00485
+Dr. Rao 98,Hepatology,12,582,Delhi,Weekends,Accepted,3.2,685,DOC00417
+Dr. Das 91,Cardiology,11,518,Jaipur,Monday-Friday,Not Accepted,4.8,824,DOC00488
+Dr. Verma 5,Dermatology,31,903,Mumbai,Weekends,Not Accepted,4.2,549,DOC00490
+Dr. Sharma 24,Hepatology,32,520,Lucknow,Weekends,Accepted,4.1,322,DOC00337
+Dr. Das 78,Gastroenterology,24,256,Ahmedabad,Weekends,Accepted,4.5,740,DOC00491
+Dr. Das 83,Orthopedics,29,849,Jaipur,Monday-Friday,Not Accepted,4.6,888,DOC00493
+Dr. Rao 54,Gastroenterology,34,678,Bangalore,Afternoon Shift,Not Accepted,3.2,501,DOC00494
+Dr. Mehta 77,Infectious Disease,11,372,Hyderabad,Afternoon Shift,Not Accepted,4.7,603,DOC00495
+Dr. Ghosh 35,Cardiology,39,751,Hyderabad,Afternoon Shift,Accepted,3.4,512,DOC00496
+Dr. Verma 10,Endocrinology,32,935,Jaipur,Afternoon Shift,Not Accepted,3.1,124,DOC00473
+Dr. Verma 72,Hepatology,34,937,Hyderabad,Weekends,Accepted,3.6,630,DOC00347
+Dr. Kumar 87,Vascular Surgery,21,222,Jaipur,Monday-Friday,Accepted,3.1,109,DOC00061
+Dr. Kumar 91,Immunology,20,543,Pune,Monday-Friday,Accepted,3.9,123,DOC00498
+Dr. Verma 30,Vascular Surgery,28,285,Kolkata,Monday-Friday,Accepted,4.8,518,DOC00288
+Dr. Verma 24,Gastroenterology,29,952,Pune,Afternoon Shift,Not Accepted,3.5,788,DOC00500
+Dr. Verma 74,Dermatology,40,510,Chennai,Evenings,Not Accepted,3.2,573,DOC00501
+Dr. Rao 90,Cardiology,31,734,Delhi,Weekends,Not Accepted,4.1,208,DOC00462
+Dr. Rao 73,Dermatology,40,862,Jaipur,Evenings,Accepted,4.9,263,DOC00212
+Dr. Iyer 29,Endocrinology,14,559,Kolkata,Afternoon Shift,Not Accepted,4.6,796,DOC00503
+Dr. Kumar 16,Hepatology,20,978,Ahmedabad,Afternoon Shift,Accepted,3.1,260,DOC00504
+Dr. Verma 45,Hepatology,38,367,Hyderabad,Evenings,Not Accepted,3.8,614,DOC00505
+Dr. Rao 8,Pulmonology,9,727,Ahmedabad,Afternoon Shift,Accepted,4.5,271,DOC00506
+Dr. Das 91,Infectious Disease,9,985,Mumbai,Monday-Friday,Accepted,3.3,605,DOC00489
+Dr. Sharma 53,Cardiology,7,940,Jaipur,Afternoon Shift,Accepted,4.0,704,DOC00508
+Dr. Iyer 80,Immunology,7,529,Pune,Monday-Friday,Not Accepted,3.6,636,DOC00513
+Dr. Sharma 11,Endocrinology,22,329,Chennai,Afternoon Shift,Not Accepted,3.7,475,DOC00515
+Dr. Kumar 48,Gastroenterology,26,748,Mumbai,Monday-Friday,Not Accepted,4.6,632,DOC00098
+Dr. Kumar 100,Hepatology,5,328,Bangalore,Monday-Friday,Accepted,4.3,206,DOC00516
+Dr. Ghosh 82,Immunology,40,385,Pune,Evenings,Not Accepted,3.9,703,DOC00161
+Dr. Mehta 23,Vascular Surgery,10,798,Mumbai,Afternoon Shift,Accepted,3.1,805,DOC00518
+Dr. Das 50,Urology,31,953,Chennai,Evenings,Accepted,5.0,105,DOC00519
+Dr. Kumar 17,Neurology,5,463,Chennai,Afternoon Shift,Not Accepted,3.9,328,DOC00520
+Dr. Iyer 55,General Medicine,33,371,Pune,Weekends,Accepted,4.5,968,DOC00318
+Dr. Sharma 93,Neurology,5,749,Mumbai,Afternoon Shift,Accepted,3.8,178,DOC00521
+Dr. Mehta 71,Dermatology,9,446,Ahmedabad,Evenings,Not Accepted,4.5,698,DOC00230
+Dr. Sharma 74,Hepatology,24,664,Chennai,Afternoon Shift,Accepted,3.0,176,DOC00522
+Dr. Sharma 67,Dermatology,26,508,Bangalore,Evenings,Not Accepted,3.2,843,DOC00524
+Dr. Iyer 14,Neurology,8,526,Delhi,Afternoon Shift,Not Accepted,3.8,106,DOC00526
+Dr. Kumar 78,Hepatology,11,409,Chennai,Monday-Friday,Accepted,4.5,984,DOC00527
+Dr. Sharma 34,Hepatology,5,266,Pune,Weekends,Accepted,4.0,943,DOC00528
+Dr. Kumar 40,Endocrinology,5,564,Ahmedabad,Afternoon Shift,Accepted,4.9,506,DOC00119
+Dr. Ghosh 26,General Medicine,28,458,Bangalore,Evenings,Not Accepted,3.5,436,DOC00531
+Dr. Das 54,Urology,13,790,Bangalore,Weekends,Not Accepted,4.2,138,DOC00532
+Dr. Sharma 2,Hepatology,10,750,Chennai,Monday-Friday,Not Accepted,3.7,354,DOC00533
+Dr. Iyer 56,Hepatology,26,749,Delhi,Monday-Friday,Not Accepted,4.2,977,DOC00535
+Dr. Rao 69,Pulmonology,15,878,Delhi,Weekends,Not Accepted,4.1,283,DOC00486
+Dr. Ghosh 27,Infectious Disease,24,783,Lucknow,Monday-Friday,Accepted,3.3,258,DOC00537
+Dr. Mehta 99,Pulmonology,40,518,Mumbai,Afternoon Shift,Accepted,5.0,450,DOC00244
+Dr. Mehta 73,Dermatology,18,380,Hyderabad,Afternoon Shift,Accepted,3.3,960,DOC00275
+Dr. Sharma 15,Hepatology,26,557,Jaipur,Afternoon Shift,Not Accepted,4.5,105,DOC00540
+Dr. Rao 33,Infectious Disease,8,520,Ahmedabad,Afternoon Shift,Not Accepted,4.1,75,DOC00542
+Dr. Verma 23,Dermatology,39,797,Lucknow,Weekends,Not Accepted,4.1,596,DOC00543
+Dr. Sharma 12,Neurology,26,623,Delhi,Afternoon Shift,Accepted,4.2,461,DOC00546
+Dr. Sharma 31,Orthopedics,17,997,Pune,Evenings,Not Accepted,4.6,343,DOC00547
+Dr. Das 67,Endocrinology,19,755,Pune,Monday-Friday,Accepted,3.9,710,DOC00549
+Dr. Verma 74,Infectious Disease,36,785,Ahmedabad,Evenings,Not Accepted,4.9,274,DOC00502
+Dr. Sharma 79,Cardiology,16,428,Delhi,Weekends,Accepted,4.9,921,DOC00550
+Dr. Verma 52,Pulmonology,17,783,Kolkata,Evenings,Accepted,3.5,178,DOC00551
+Dr. Iyer 92,Endocrinology,24,860,Ahmedabad,Afternoon Shift,Not Accepted,4.0,451,DOC00552
+Dr. Kumar 82,Hepatology,9,879,Jaipur,Monday-Friday,Accepted,4.2,10,DOC00554
+Dr. Rao 15,Neurology,14,638,Chennai,Monday-Friday,Accepted,4.5,884,DOC00265
+Dr. Mehta 93,Gastroenterology,26,529,Ahmedabad,Weekends,Not Accepted,4.1,647,DOC00555
+Dr. Mehta 66,Infectious Disease,26,276,Lucknow,Weekends,Accepted,4.7,922,DOC00557
+Dr. Rao 39,Toxicology,36,923,Delhi,Evenings,Accepted,3.1,545,DOC00560
+Dr. Kumar 56,Hepatology,18,678,Lucknow,Evenings,Not Accepted,3.4,32,DOC00561
+Dr. Sharma 53,Neurology,16,500,Chennai,Weekends,Not Accepted,4.7,24,DOC00510
+Dr. Kumar 99,Immunology,33,330,Jaipur,Weekends,Not Accepted,4.4,210,DOC00562
+Dr. Ghosh 57,Orthopedics,36,950,Hyderabad,Monday-Friday,Not Accepted,4.3,98,DOC00563
+Dr. Sharma 85,Dermatology,15,662,Pune,Evenings,Accepted,3.7,99,DOC00564
+Dr. Das 19,Endocrinology,14,968,Lucknow,Evenings,Not Accepted,3.1,76,DOC00294
+Dr. Ghosh 86,Gastroenterology,7,732,Delhi,Monday-Friday,Accepted,4.3,545,DOC00566
+Dr. Iyer 45,Urology,35,643,Bangalore,Monday-Friday,Not Accepted,4.0,961,DOC00483
+Dr. Verma 8,Infectious Disease,29,821,Kolkata,Evenings,Accepted,3.4,793,DOC00567
+Dr. Kumar 79,Dermatology,11,681,Delhi,Evenings,Accepted,4.8,247,DOC00568
+Dr. Verma 98,Neurology,17,633,Pune,Weekends,Not Accepted,4.1,413,DOC00076
+Dr. Das 3,Neurology,30,803,Mumbai,Evenings,Not Accepted,4.1,678,DOC00262
+Dr. Sharma 60,Pulmonology,28,987,Jaipur,Monday-Friday,Accepted,4.9,593,DOC00570
+Dr. Das 23,Dermatology,5,629,Lucknow,Monday-Friday,Not Accepted,4.8,101,DOC00572
+Dr. Ghosh 78,Hepatology,11,493,Chennai,Weekends,Not Accepted,3.4,109,DOC00366
+Dr. Iyer 28,Dermatology,9,650,Kolkata,Evenings,Not Accepted,5.0,907,DOC00452
+Dr. Iyer 18,Immunology,8,474,Jaipur,Weekends,Accepted,4.5,940,DOC00574
+Dr. Iyer 46,General Medicine,17,860,Chennai,Monday-Friday,Accepted,3.1,48,DOC00577
+Dr. Kumar 24,Infectious Disease,21,619,Pune,Weekends,Accepted,3.6,139,DOC00579
+Dr. Verma 55,Gastroenterology,16,308,Delhi,Afternoon Shift,Not Accepted,4.9,126,DOC00270
+Dr. Verma 58,Gastroenterology,11,278,Hyderabad,Afternoon Shift,Accepted,3.3,726,DOC00284
+Dr. Mehta 11,Hepatology,6,336,Jaipur,Weekends,Not Accepted,4.2,44,DOC00580
+Dr. Verma 47,Hepatology,35,646,Ahmedabad,Afternoon Shift,Not Accepted,3.1,464,DOC00404
+Dr. Das 47,Infectious Disease,18,528,Ahmedabad,Monday-Friday,Not Accepted,4.7,792,DOC00582
+Dr. Ghosh 46,Endocrinology,19,873,Pune,Weekends,Accepted,3.1,56,DOC00583
+Dr. Das 24,Endocrinology,13,327,Delhi,Evenings,Not Accepted,3.8,968,DOC00277
+Dr. Sharma 60,Neurology,9,861,Delhi,Afternoon Shift,Not Accepted,4.8,357,DOC00569
+Dr. Kumar 26,Rheumatology,8,610,Bangalore,Weekends,Accepted,3.0,62,DOC00584
+Dr. Mehta 63,Cardiology,37,641,Lucknow,Weekends,Not Accepted,4.2,489,DOC00585
+Dr. Verma 75,Gastroenterology,25,510,Bangalore,Evenings,Accepted,4.3,264,DOC00587
+Dr. Mehta 21,Neurology,19,273,Delhi,Afternoon Shift,Accepted,4.6,733,DOC00588
+Dr. Verma 49,Hepatology,27,372,Bangalore,Evenings,Not Accepted,3.6,806,DOC00590
+Dr. Mehta 67,Hepatology,9,602,Ahmedabad,Weekends,Not Accepted,3.1,555,DOC00592
+Dr. Mehta 93,Rheumatology,23,380,Ahmedabad,Afternoon Shift,Not Accepted,3.6,481,DOC00556
+Dr. Rao 22,Endocrinology,11,430,Chennai,Afternoon Shift,Accepted,4.3,240,DOC00063
+Dr. Verma 60,Gastroenterology,14,273,Pune,Weekends,Accepted,4.2,442,DOC00593
+Dr. Sharma 2,Rheumatology,26,407,Chennai,Afternoon Shift,Not Accepted,4.7,469,DOC00534
+Dr. Verma 43,Endocrinology,36,728,Lucknow,Monday-Friday,Not Accepted,4.0,151,DOC00594
+Dr. Ghosh 77,Immunology,36,985,Pune,Weekends,Not Accepted,4.4,129,DOC00595
+Dr. Mehta 2,Pulmonology,40,264,Chennai,Evenings,Not Accepted,4.7,435,DOC00036
+Dr. Mehta 6,Endocrinology,27,413,Lucknow,Weekends,Accepted,3.2,625,DOC00597
+Dr. Verma 24,Endocrinology,25,698,Chennai,Weekends,Accepted,4.4,842,DOC00499
+Dr. Kumar 45,Urology,23,663,Jaipur,Weekends,Accepted,3.1,361,DOC00599
+Dr. Ghosh 31,Rheumatology,18,416,Lucknow,Monday-Friday,Not Accepted,3.6,56,DOC00311
+Dr. Ghosh 3,Rheumatology,31,641,Chennai,Evenings,Not Accepted,4.5,641,DOC00600
+Dr. Ghosh 83,Hepatology,18,609,Bangalore,Weekends,Not Accepted,4.1,990,DOC00601
+Dr. Iyer 42,Hepatology,40,306,Mumbai,Afternoon Shift,Accepted,4.6,35,DOC00321
+Dr. Ghosh 55,Endocrinology,32,404,Bangalore,Afternoon Shift,Accepted,4.1,48,DOC00602
+Dr. Sharma 57,Neurology,6,856,Mumbai,Monday-Friday,Accepted,3.3,360,DOC00605
+Dr. Iyer 13,Neurology,25,695,Bangalore,Monday-Friday,Accepted,4.5,759,DOC00207
+Dr. Mehta 67,Endocrinology,19,735,Hyderabad,Afternoon Shift,Not Accepted,4.6,457,DOC00591
+Dr. Ghosh 35,Pulmonology,28,989,Delhi,Afternoon Shift,Accepted,4.5,412,DOC00497
+Dr. Mehta 87,Dermatology,7,353,Kolkata,Afternoon Shift,Not Accepted,3.3,938,DOC00156
+Dr. Kumar 43,Gastroenterology,15,797,Chennai,Afternoon Shift,Accepted,4.3,355,DOC00607
+Dr. Iyer 39,Dermatology,9,211,Ahmedabad,Evenings,Not Accepted,3.8,99,DOC00608
+Dr. Mehta 54,Hepatology,31,383,Jaipur,Afternoon Shift,Not Accepted,3.6,806,DOC00609
+Dr. Mehta 10,General Medicine,18,487,Jaipur,Afternoon Shift,Accepted,4.4,586,DOC00611
+Dr. Rao 93,Pulmonology,10,524,Bangalore,Monday-Friday,Not Accepted,3.9,331,DOC00614
+Dr. Iyer 27,Rheumatology,12,439,Bangalore,Monday-Friday,Not Accepted,3.7,27,DOC00616
+Dr. Sharma 86,Pulmonology,35,684,Bangalore,Weekends,Not Accepted,3.7,612,DOC00328
+Dr. Kumar 61,Orthopedics,5,639,Bangalore,Evenings,Not Accepted,3.5,708,DOC00618
+Dr. Kumar 2,Hepatology,19,326,Pune,Monday-Friday,Not Accepted,3.0,748,DOC00619
+Dr. Kumar 31,Neurology,32,852,Hyderabad,Weekends,Not Accepted,3.1,700,DOC00336
+Dr. Rao 35,Dermatology,17,536,Jaipur,Evenings,Not Accepted,3.2,381,DOC00620
+Dr. Mehta 88,Gastroenterology,31,700,Delhi,Evenings,Not Accepted,4.3,576,DOC00621
+Dr. Iyer 3,Dermatology,12,555,Kolkata,Weekends,Accepted,4.0,813,DOC00445
+Dr. Iyer 24,Immunology,9,614,Hyderabad,Monday-Friday,Accepted,3.1,454,DOC00625
+Dr. Kumar 52,Hepatology,9,899,Lucknow,Weekends,Not Accepted,4.0,881,DOC00627
+Dr. Verma 86,Toxicology,9,900,Kolkata,Evenings,Not Accepted,4.7,39,DOC00422
+Dr. Sharma 4,Infectious Disease,24,720,Chennai,Evenings,Accepted,4.6,762,DOC00095
+Dr. Sharma 39,Hepatology,6,537,Kolkata,Afternoon Shift,Not Accepted,4.4,162,DOC00468
+Dr. Iyer 72,General Medicine,19,956,Ahmedabad,Afternoon Shift,Accepted,4.0,571,DOC00628
+Dr. Kumar 39,Neurology,12,788,Kolkata,Afternoon Shift,Not Accepted,4.0,999,DOC00630
+Dr. Ghosh 47,Gastroenterology,33,905,Chennai,Evenings,Not Accepted,4.9,122,DOC00047
+Dr. Ghosh 11,Hepatology,22,776,Hyderabad,Weekends,Accepted,4.5,444,DOC00631
+Dr. Das 98,Hepatology,16,330,Lucknow,Evenings,Accepted,3.5,207,DOC00115
+Dr. Iyer 32,Hepatology,29,856,Mumbai,Monday-Friday,Accepted,4.7,32,DOC00632
+Dr. Kumar 5,Gastroenterology,7,959,Ahmedabad,Monday-Friday,Accepted,4.1,721,DOC00633
+Dr. Sharma 18,Gastroenterology,26,226,Bangalore,Monday-Friday,Not Accepted,4.3,974,DOC00634
+Dr. Verma 79,Orthopedics,14,883,Hyderabad,Evenings,Not Accepted,4.9,711,DOC00635
+Dr. Iyer 95,Infectious Disease,20,674,Kolkata,Monday-Friday,Not Accepted,4.8,782,DOC00637
+Dr. Ghosh 15,Infectious Disease,26,387,Jaipur,Afternoon Shift,Not Accepted,3.5,803,DOC00640
+Dr. Ghosh 50,Endocrinology,30,240,Jaipur,Evenings,Not Accepted,3.5,405,DOC00415
+Dr. Verma 19,General Medicine,7,553,Hyderabad,Monday-Friday,Accepted,4.3,67,DOC00641
+Dr. Rao 37,Pulmonology,13,559,Kolkata,Weekends,Not Accepted,3.5,270,DOC00643
+Dr. Rao 71,Infectious Disease,25,383,Jaipur,Monday-Friday,Accepted,3.6,71,DOC00377
+Dr. Mehta 21,Toxicology,22,891,Bangalore,Weekends,Not Accepted,3.2,650,DOC00589
+Dr. Iyer 36,Dermatology,24,567,Hyderabad,Evenings,Accepted,3.0,296,DOC00209
+Dr. Ghosh 12,Gastroenterology,14,937,Pune,Monday-Friday,Not Accepted,3.8,221,DOC00644
+Dr. Sharma 97,Hepatology,24,913,Chennai,Monday-Friday,Not Accepted,4.2,170,DOC00401
+Dr. Iyer 87,Hepatology,6,843,Hyderabad,Monday-Friday,Not Accepted,4.3,782,DOC00645
+Dr. Iyer 15,Neurology,17,908,Lucknow,Evenings,Not Accepted,4.8,441,DOC00647
+Dr. Rao 93,Rheumatology,27,748,Lucknow,Weekends,Not Accepted,4.6,987,DOC00615
+Dr. Rao 70,Hepatology,22,638,Hyderabad,Afternoon Shift,Not Accepted,4.6,777,DOC00648
+Dr. Verma 26,Dermatology,30,686,Jaipur,Monday-Friday,Not Accepted,4.2,30,DOC00650
+Dr. Mehta 82,Toxicology,15,266,Ahmedabad,Afternoon Shift,Accepted,4.2,390,DOC00133
+Dr. Verma 91,Dermatology,17,958,Pune,Evenings,Not Accepted,4.3,815,DOC00651
+Dr. Verma 33,Dermatology,16,491,Kolkata,Monday-Friday,Accepted,4.6,979,DOC00652
+Dr. Das 51,Endocrinology,34,353,Ahmedabad,Monday-Friday,Not Accepted,4.0,440,DOC00053
+Dr. Verma 10,Endocrinology,29,713,Ahmedabad,Monday-Friday,Accepted,3.7,237,DOC00473
+Dr. Rao 65,Infectious Disease,32,780,Pune,Weekends,Accepted,3.4,28,DOC00653
+Dr. Ghosh 56,Hepatology,35,465,Bangalore,Afternoon Shift,Accepted,3.0,180,DOC00340
+Dr. Ghosh 84,Endocrinology,39,951,Hyderabad,Weekends,Accepted,4.8,170,DOC00654
+Dr. Sharma 17,Hepatology,13,776,Bangalore,Monday-Friday,Not Accepted,3.6,892,DOC00655
+Dr. Verma 35,Pulmonology,37,332,Bangalore,Afternoon Shift,Accepted,4.3,768,DOC00657
+Dr. Ghosh 26,Endocrinology,13,316,Bangalore,Afternoon Shift,Not Accepted,3.2,574,DOC00530
+Dr. Das 78,Hepatology,19,937,Jaipur,Evenings,Accepted,4.8,436,DOC00492
+Dr. Verma 37,Infectious Disease,11,462,Mumbai,Weekends,Accepted,4.9,856,DOC00327
+Dr. Rao 3,Gastroenterology,36,904,Ahmedabad,Afternoon Shift,Accepted,3.3,507,DOC00658
+Dr. Iyer 44,Hepatology,16,523,Hyderabad,Monday-Friday,Accepted,4.2,788,DOC00660
+Dr. Sharma 22,Toxicology,13,282,Pune,Afternoon Shift,Not Accepted,1.7,228,DOC00664
+Dr. Patel 57,Infectious Disease,32,783,Delhi,Monday-Friday,Accepted,2.3,260,DOC00665
+Dr. Mehta 62,Urology,18,472,Kolkata,Afternoon Shift,Accepted,2.4,205,DOC00229
+Dr. Iyer 99,General Medicine,24,672,Jaipur,Monday-Friday,Not Accepted,1.6,623,DOC00341
+Dr. Sharma 76,Hepatology,28,706,Mumbai,Afternoon Shift,Accepted,4.2,892,DOC00666
+Dr. Mehta 14,Cardiology,1,919,Delhi,Weekends,Not Accepted,5.0,560,DOC00431
+Dr. Sharma 43,Hepatology,18,962,Chennai,Evenings,Not Accepted,1.9,432,DOC00667
+Dr. Patel 21,Endocrinology,23,629,Jaipur,Afternoon Shift,Accepted,2.8,310,DOC00670
+Dr. Iyer 11,Rheumatology,31,532,Bangalore,Evenings,Accepted,1.9,654,DOC00351
+Dr. Patel 21,Neurology,17,968,Delhi,Weekends,Not Accepted,2.9,753,DOC00671
+Dr. Sharma 16,Infectious Disease,9,422,Pune,Weekends,Not Accepted,3.7,701,DOC00672
+Dr. Sharma 5,Gastroenterology,25,463,Mumbai,Evenings,Not Accepted,4.6,826,DOC00674
+Dr. Rao 4,Toxicology,34,770,Bangalore,Afternoon Shift,Not Accepted,2.5,470,DOC00178
+Dr. Rao 44,Immunology,18,892,Hyderabad,Evenings,Not Accepted,2.5,115,DOC00150
+Dr. Mehta 82,Neurology,8,476,Bangalore,Weekends,Not Accepted,1.1,588,DOC00131
+Dr. Sharma 4,Endocrinology,31,595,Bangalore,Evenings,Accepted,4.1,889,DOC00094
+Dr. Mehta 38,Toxicology,17,263,Kolkata,Evenings,Not Accepted,2.4,622,DOC00677
+Dr. Mehta 37,Rheumatology,39,821,Jaipur,Afternoon Shift,Not Accepted,4.1,930,DOC00680
+Dr. Sharma 81,Rheumatology,33,971,Hyderabad,Weekends,Not Accepted,2.2,702,DOC00683
+Dr. Mehta 90,Endocrinology,5,365,Jaipur,Evenings,Accepted,4.5,22,DOC00684
+Dr. Patel 16,Urology,10,673,Ahmedabad,Afternoon Shift,Accepted,2.0,158,DOC00686
+Dr. Iyer 1,Vascular Surgery,33,977,Hyderabad,Evenings,Accepted,3.4,132,DOC00690
+Dr. Iyer 15,Dermatology,3,776,Bangalore,Monday-Friday,Not Accepted,3.0,711,DOC00646
+Dr. Mehta 71,Infectious Disease,30,596,Chennai,Monday-Friday,Not Accepted,1.7,69,DOC00232
+Dr. Patel 8,Vascular Surgery,28,796,Jaipur,Monday-Friday,Accepted,4.5,483,DOC00692
+Dr. Rao 12,Infectious Disease,25,737,Kolkata,Monday-Friday,Not Accepted,2.2,702,DOC00693
+Dr. Patel 42,General Medicine,6,351,Mumbai,Evenings,Not Accepted,3.6,613,DOC00694
+Dr. Mehta 72,Urology,25,235,Jaipur,Afternoon Shift,Not Accepted,1.6,498,DOC00696
+Dr. Iyer 80,Gastroenterology,13,779,Ahmedabad,Monday-Friday,Accepted,4.9,451,DOC00512
+Dr. Sharma 58,Toxicology,24,743,Ahmedabad,Weekends,Accepted,1.1,184,DOC00136
+Dr. Iyer 17,Pulmonology,5,969,Kolkata,Afternoon Shift,Accepted,2.3,541,DOC00698
+Dr. Patel 34,Hepatology,25,533,Chennai,Afternoon Shift,Accepted,1.2,721,DOC00699
+Dr. Rao 38,Endocrinology,21,832,Mumbai,Weekends,Not Accepted,2.7,763,DOC00701
+Dr. Iyer 54,Urology,20,562,Lucknow,Weekends,Accepted,4.5,955,DOC00705
+Dr. Patel 16,Urology,30,773,Jaipur,Monday-Friday,Not Accepted,1.3,682,DOC00686
+Dr. Iyer 94,Dermatology,11,406,Pune,Weekends,Not Accepted,2.3,613,DOC00706
+Dr. Sharma 85,Dermatology,32,573,Kolkata,Weekends,Accepted,3.6,17,DOC00564
+Dr. Iyer 95,Urology,2,367,Bangalore,Evenings,Accepted,3.0,605,DOC00639
+Dr. Sharma 81,Pulmonology,12,250,Pune,Evenings,Accepted,1.6,189,DOC00682
+Dr. Sharma 73,Hepatology,14,634,Jaipur,Monday-Friday,Not Accepted,1.5,463,DOC00708
+Dr. Rao 31,Hepatology,27,857,Jaipur,Monday-Friday,Accepted,1.3,664,DOC00409
+Dr. Iyer 24,Orthopedics,31,589,Hyderabad,Afternoon Shift,Accepted,3.7,43,DOC00626
+Dr. Mehta 5,Neurology,7,267,Mumbai,Afternoon Shift,Not Accepted,1.5,887,DOC00710
+Dr. Patel 94,Dermatology,5,789,Chennai,Afternoon Shift,Not Accepted,4.3,481,DOC00711
+Dr. Sharma 65,Orthopedics,32,550,Chennai,Afternoon Shift,Accepted,4.6,520,DOC00398
+Dr. Patel 40,Endocrinology,26,340,Hyderabad,Afternoon Shift,Not Accepted,2.1,172,DOC00715
+Dr. Iyer 59,Orthopedics,36,627,Delhi,Monday-Friday,Not Accepted,4.0,638,DOC00716
+Dr. Sharma 57,Endocrinology,39,200,Jaipur,Afternoon Shift,Accepted,3.8,931,DOC00603
+Dr. Patel 96,Gastroenterology,20,472,Mumbai,Evenings,Accepted,4.1,865,DOC00718
+Dr. Rao 70,Orthopedics,6,432,Pune,Weekends,Accepted,1.7,394,DOC00649
+Dr. Rao 22,Urology,5,757,Delhi,Evenings,Accepted,2.8,963,DOC00065
+Dr. Sharma 64,Neurology,8,554,Pune,Evenings,Not Accepted,3.3,898,DOC00204
+Dr. Rao 18,Hepatology,33,768,Mumbai,Monday-Friday,Accepted,1.5,316,DOC00719
+Dr. Rao 47,Gastroenterology,37,216,Kolkata,Afternoon Shift,Not Accepted,4.8,456,DOC00720
+Dr. Rao 6,Infectious Disease,19,706,Jaipur,Afternoon Shift,Not Accepted,1.2,498,DOC00721
+Dr. Mehta 26,Rheumatology,20,263,Hyderabad,Monday-Friday,Accepted,4.2,902,DOC00723
+Dr. Iyer 89,Pulmonology,20,264,Pune,Afternoon Shift,Accepted,4.4,122,DOC00438
+Dr. Sharma 38,Dermatology,14,856,Bangalore,Monday-Friday,Accepted,4.7,593,DOC00724
+Dr. Rao 9,Toxicology,33,214,Hyderabad,Afternoon Shift,Not Accepted,1.2,742,DOC00727
+Dr. Mehta 27,Rheumatology,10,579,Jaipur,Evenings,Not Accepted,3.8,961,DOC00729
+Dr. Rao 75,Infectious Disease,1,944,Kolkata,Weekends,Not Accepted,3.5,585,DOC00732
+Dr. Rao 56,Vascular Surgery,23,306,Kolkata,Afternoon Shift,Not Accepted,4.0,458,DOC00292
+Dr. Sharma 81,Dermatology,28,591,Chennai,Monday-Friday,Not Accepted,2.2,98,DOC00681
+Dr. Patel 25,Dermatology,24,976,Mumbai,Monday-Friday,Accepted,3.5,817,DOC00733
+Dr. Patel 24,Dermatology,8,771,Delhi,Weekends,Accepted,4.2,470,DOC00734
+Dr. Rao 54,Gastroenterology,14,884,Mumbai,Evenings,Not Accepted,4.5,248,DOC00494
+Dr. Iyer 46,Immunology,19,742,Pune,Weekends,Accepted,4.0,792,DOC00578
+Dr. Mehta 95,Dermatology,31,891,Pune,Monday-Friday,Accepted,2.0,888,DOC00738
+Dr. Sharma 27,Vascular Surgery,25,419,Chennai,Monday-Friday,Not Accepted,1.2,610,DOC00171
+Dr. Rao 55,Endocrinology,34,201,Bangalore,Afternoon Shift,Accepted,3.3,947,DOC00361
+Dr. Mehta 38,Endocrinology,10,761,Mumbai,Afternoon Shift,Accepted,2.2,15,DOC00676
+Dr. Sharma 34,Rheumatology,4,532,Pune,Evenings,Not Accepted,1.3,145,DOC00529
+Dr. Sharma 25,Endocrinology,21,284,Ahmedabad,Monday-Friday,Accepted,3.5,599,DOC00739
+Dr. Iyer 7,General Medicine,26,451,Ahmedabad,Monday-Friday,Not Accepted,4.5,287,DOC00742
+Dr. Rao 34,Orthopedics,31,812,Chennai,Weekends,Not Accepted,2.2,198,DOC00744
+Dr. Iyer 56,Immunology,11,336,Chennai,Monday-Friday,Not Accepted,1.4,754,DOC00536
+Dr. Sharma 10,Immunology,26,775,Bangalore,Monday-Friday,Accepted,1.1,516,DOC00188
+Dr. Rao 52,Orthopedics,14,533,Delhi,Weekends,Not Accepted,4.1,95,DOC00746
+Dr. Mehta 31,Gastroenterology,24,962,Jaipur,Evenings,Accepted,3.5,821,DOC00748
+Dr. Mehta 45,Endocrinology,12,399,Ahmedabad,Evenings,Accepted,1.3,642,DOC00749
+Dr. Patel 63,Infectious Disease,29,518,Lucknow,Evenings,Not Accepted,4.8,326,DOC00751
+Dr. Patel 39,Dermatology,38,497,Ahmedabad,Afternoon Shift,Not Accepted,2.8,124,DOC00752
+Dr. Mehta 16,General Medicine,7,962,Lucknow,Monday-Friday,Accepted,1.0,935,DOC00753
+Dr. Mehta 86,Immunology,3,306,Bangalore,Afternoon Shift,Accepted,2.9,382,DOC00044
+Dr. Patel 6,Immunology,39,672,Delhi,Weekends,Not Accepted,4.7,708,DOC00755
+Dr. Sharma 37,Rheumatology,17,865,Mumbai,Weekends,Accepted,2.9,33,DOC00757
+Dr. Iyer 19,Urology,16,967,Chennai,Evenings,Not Accepted,3.5,101,DOC00761
+Dr. Patel 6,Immunology,8,227,Ahmedabad,Afternoon Shift,Accepted,4.7,365,DOC00755
+Dr. Rao 2,Gastroenterology,23,917,Mumbai,Weekends,Accepted,1.1,874,DOC00116
+Dr. Rao 16,Orthopedics,17,680,Lucknow,Afternoon Shift,Accepted,2.7,465,DOC00764
+Dr. Mehta 18,Cardiology,17,634,Hyderabad,Afternoon Shift,Accepted,4.6,894,DOC00765
+Dr. Iyer 95,Rheumatology,19,979,Jaipur,Monday-Friday,Accepted,2.8,713,DOC00638
+Dr. Sharma 85,Immunology,1,295,Delhi,Monday-Friday,Accepted,4.6,255,DOC00565
+Dr. Rao 90,Rheumatology,22,772,Lucknow,Afternoon Shift,Accepted,2.0,382,DOC00464
+Dr. Rao 75,Dermatology,8,251,Lucknow,Weekends,Not Accepted,1.8,466,DOC00731
+Dr. Sharma 43,Pulmonology,5,780,Chennai,Evenings,Accepted,1.4,220,DOC00668
+Dr. Patel 75,Endocrinology,30,715,Ahmedabad,Monday-Friday,Not Accepted,3.1,683,DOC00767
+Dr. Mehta 79,Cardiology,11,726,Mumbai,Evenings,Not Accepted,2.4,516,DOC00768
+Dr. Rao 40,Cardiology,21,858,Mumbai,Afternoon Shift,Not Accepted,1.4,931,DOC00447
+Dr. Sharma 57,Endocrinology,24,309,Delhi,Afternoon Shift,Accepted,1.9,201,DOC00603
+Dr. Mehta 34,Rheumatology,8,372,Lucknow,Afternoon Shift,Not Accepted,3.9,910,DOC00240
+Dr. Patel 34,Urology,22,655,Kolkata,Monday-Friday,Not Accepted,2.7,170,DOC00700
+Dr. Iyer 67,Urology,8,751,Mumbai,Evenings,Accepted,2.3,406,DOC00346
+Dr. Iyer 81,Infectious Disease,32,545,Pune,Monday-Friday,Not Accepted,3.1,493,DOC00248
+Dr. Sharma 12,Endocrinology,38,661,Pune,Weekends,Accepted,4.9,912,DOC00544
+Dr. Mehta 59,Urology,15,761,Pune,Monday-Friday,Not Accepted,2.0,172,DOC00771
+Dr. Mehta 49,Toxicology,3,524,Mumbai,Monday-Friday,Not Accepted,4.5,230,DOC00773
+Dr. Mehta 83,Orthopedics,39,911,Bangalore,Evenings,Not Accepted,4.1,191,DOC00427
+Dr. Iyer 41,Rheumatology,39,584,Kolkata,Evenings,Accepted,3.7,584,DOC00237
+Dr. Iyer 90,Endocrinology,12,651,Kolkata,Monday-Friday,Accepted,4.7,999,DOC00774
+Dr. Mehta 32,Orthopedics,17,783,Kolkata,Weekends,Not Accepted,4.8,144,DOC00775
+Dr. Rao 64,Dermatology,22,982,Bangalore,Weekends,Not Accepted,1.2,657,DOC00776
+Dr. Patel 85,Vascular Surgery,29,569,Bangalore,Weekends,Accepted,1.1,661,DOC00779
+Dr. Iyer 52,Rheumatology,26,960,Hyderabad,Evenings,Not Accepted,4.4,958,DOC00780
+Dr. Rao 59,Orthopedics,37,979,Pune,Weekends,Not Accepted,3.0,756,DOC00781
+Dr. Iyer 9,Cardiology,19,441,Jaipur,Evenings,Not Accepted,1.9,76,DOC00782
+Dr. Sharma 5,Rheumatology,39,275,Mumbai,Monday-Friday,Accepted,1.1,235,DOC00675
+Dr. Rao 82,Vascular Surgery,7,867,Delhi,Afternoon Shift,Not Accepted,1.4,794,DOC00785
+Dr. Sharma 89,Gastroenterology,2,595,Hyderabad,Weekends,Not Accepted,2.3,954,DOC00001
+Dr. Patel 50,Orthopedics,6,246,Jaipur,Weekends,Accepted,1.6,949,DOC00786
+Dr. Iyer 59,Rheumatology,39,770,Pune,Monday-Friday,Not Accepted,3.7,337,DOC00717
+Dr. Iyer 22,Pulmonology,33,674,Pune,Evenings,Not Accepted,4.9,866,DOC00006
+Dr. Patel 85,Gastroenterology,37,319,Chennai,Afternoon Shift,Accepted,3.5,968,DOC00777
+Dr. Mehta 57,Vascular Surgery,33,239,Delhi,Monday-Friday,Accepted,1.3,639,DOC00788
+Dr. Mehta 14,Neurology,30,248,Ahmedabad,Monday-Friday,Not Accepted,4.8,221,DOC00434
+Dr. Iyer 66,Orthopedics,26,931,Hyderabad,Afternoon Shift,Not Accepted,1.8,212,DOC00791
+Dr. Iyer 55,General Medicine,16,444,Bangalore,Monday-Friday,Accepted,4.3,903,DOC00318
+Dr. Patel 82,General Medicine,21,287,Jaipur,Monday-Friday,Accepted,4.7,312,DOC00792
+Dr. Mehta 34,Vascular Surgery,3,673,Jaipur,Monday-Friday,Accepted,2.9,556,DOC00242
+Dr. Rao 74,Urology,3,437,Ahmedabad,Weekends,Not Accepted,1.1,527,DOC00794
+Dr. Mehta 86,Cardiology,18,722,Hyderabad,Afternoon Shift,Not Accepted,1.4,101,DOC00042
+Dr. Iyer 36,Endocrinology,37,606,Bangalore,Monday-Friday,Not Accepted,3.1,896,DOC00210
+Dr. Rao 96,Pulmonology,13,910,Lucknow,Evenings,Accepted,4.6,296,DOC00795
+Dr. Patel 56,General Medicine,20,639,Jaipur,Weekends,Accepted,4.8,262,DOC00797
+Dr. Iyer 82,Hepatology,7,717,Pune,Weekends,Accepted,3.8,291,DOC00067
+Dr. Sharma 22,Hepatology,16,799,Chennai,Monday-Friday,Accepted,2.2,514,DOC00662
+Dr. Rao 93,General Medicine,38,673,Ahmedabad,Weekends,Not Accepted,4.1,862,DOC00613
+Dr. Sharma 83,Toxicology,11,823,Ahmedabad,Evenings,Not Accepted,4.4,747,DOC00800
+Dr. Sharma 41,Orthopedics,14,994,Ahmedabad,Afternoon Shift,Accepted,3.4,174,DOC00801
+Dr. Iyer 18,General Medicine,36,513,Bangalore,Weekends,Accepted,2.6,151,DOC00573
+Dr. Rao 61,Hepatology,34,994,Delhi,Afternoon Shift,Not Accepted,4.9,795,DOC00804
+Dr. Iyer 34,Toxicology,17,296,Mumbai,Weekends,Accepted,4.2,363,DOC00395
+Dr. Sharma 66,Vascular Surgery,23,813,Pune,Weekends,Accepted,1.1,817,DOC00324
+Dr. Iyer 55,Cardiology,7,870,Pune,Weekends,Accepted,1.7,122,DOC00317
+Dr. Patel 15,Pulmonology,26,800,Delhi,Afternoon Shift,Not Accepted,2.4,180,DOC00806
+Dr. Sharma 17,Urology,23,858,Hyderabad,Monday-Friday,Accepted,4.5,652,DOC00656
+Dr. Patel 88,Gastroenterology,6,474,Bangalore,Weekends,Accepted,3.6,961,DOC00807
+Dr. Rao 23,Hepatology,18,527,Ahmedabad,Evenings,Not Accepted,2.1,748,DOC00032
+Dr. Patel 86,Orthopedics,21,415,Lucknow,Monday-Friday,Accepted,1.1,475,DOC00808
+Dr. Iyer 84,Dermatology,20,639,Chennai,Evenings,Accepted,2.8,966,DOC00809
+Dr. Sharma 69,General Medicine,31,778,Bangalore,Afternoon Shift,Accepted,4.1,177,DOC00007
+Dr. Rao 75,Cardiology,11,541,Delhi,Evenings,Not Accepted,3.0,682,DOC00730
+Dr. Patel 91,Cardiology,5,217,Jaipur,Weekends,Accepted,2.3,713,DOC00810
+Dr. Iyer 34,Pulmonology,3,323,Bangalore,Monday-Friday,Accepted,4.7,253,DOC00394
+Dr. Sharma 99,Endocrinology,30,366,Ahmedabad,Afternoon Shift,Not Accepted,3.5,642,DOC00026
+Dr. Sharma 88,Neurology,25,778,Chennai,Monday-Friday,Not Accepted,2.1,67,DOC00813
+Dr. Rao 98,Dermatology,36,828,Jaipur,Monday-Friday,Accepted,3.1,728,DOC00416
+Dr. Rao 91,Pulmonology,25,955,Mumbai,Monday-Friday,Accepted,3.8,64,DOC00815
+Dr. Patel 27,Pulmonology,21,263,Ahmedabad,Weekends,Accepted,4.7,392,DOC00816
+Dr. Patel 83,Rheumatology,10,357,Hyderabad,Weekends,Not Accepted,4.1,346,DOC00817
+Dr. Mehta 74,Pulmonology,19,492,Ahmedabad,Weekends,Not Accepted,4.3,531,DOC00818
+Dr. Sharma 98,Dermatology,13,266,Pune,Evenings,Accepted,3.6,545,DOC00090
+Dr. Sharma 20,Endocrinology,37,661,Hyderabad,Weekends,Accepted,3.4,805,DOC00301
+Dr. Mehta 36,General Medicine,38,930,Lucknow,Evenings,Not Accepted,3.8,279,DOC00379
+Dr. Sharma 38,Pulmonology,32,449,Ahmedabad,Evenings,Accepted,2.8,590,DOC00726
+Dr. Rao 19,Urology,26,203,Ahmedabad,Evenings,Not Accepted,4.6,666,DOC00820
+Dr. Mehta 77,Infectious Disease,16,759,Mumbai,Weekends,Accepted,2.6,32,DOC00495
+Dr. Patel 81,Immunology,33,530,Lucknow,Afternoon Shift,Not Accepted,2.9,744,DOC00821
+Dr. Sharma 39,Endocrinology,33,233,Bangalore,Evenings,Not Accepted,2.1,744,DOC00467
+Dr. Iyer 46,Gastroenterology,2,598,Ahmedabad,Evenings,Not Accepted,3.2,927,DOC00576
+Dr. Sharma 20,Hepatology,22,755,Lucknow,Weekends,Not Accepted,4.2,330,DOC00303
+Dr. Patel 68,Vascular Surgery,17,840,Delhi,Evenings,Not Accepted,4.7,446,DOC00824
+Dr. Mehta 38,Urology,32,681,Mumbai,Evenings,Accepted,4.8,898,DOC00678
+Dr. Sharma 39,Toxicology,21,676,Kolkata,Afternoon Shift,Accepted,2.3,996,DOC00470
+Dr. Patel 22,Dermatology,14,345,Bangalore,Afternoon Shift,Accepted,2.2,993,DOC00825
+Dr. Rao 44,Infectious Disease,21,696,Bangalore,Afternoon Shift,Accepted,1.4,403,DOC00151
+Dr. Patel 24,Toxicology,4,623,Lucknow,Afternoon Shift,Accepted,1.7,272,DOC00736
+Dr. Rao 39,Immunology,35,468,Delhi,Weekends,Not Accepted,4.0,500,DOC00559
+Dr. Patel 19,Endocrinology,6,696,Chennai,Evenings,Not Accepted,1.1,678,DOC00826
+Dr. Rao 96,Rheumatology,2,726,Chennai,Monday-Friday,Not Accepted,2.9,513,DOC00796
+Dr. Iyer 53,Gastroenterology,39,844,Lucknow,Monday-Friday,Accepted,2.5,787,DOC00305
+Dr. Sharma 61,Immunology,23,312,Delhi,Afternoon Shift,Not Accepted,1.8,622,DOC00827
+Dr. Iyer 7,Vascular Surgery,13,750,Kolkata,Evenings,Not Accepted,2.9,806,DOC00743
+Dr. Rao 74,Infectious Disease,34,618,Bangalore,Monday-Friday,Not Accepted,3.6,928,DOC00793
+Dr. Iyer 36,Infectious Disease,19,269,Lucknow,Evenings,Not Accepted,3.1,503,DOC00211
+Dr. Mehta 26,Rheumatology,33,285,Mumbai,Monday-Friday,Not Accepted,4.5,417,DOC00723
+Dr. Sharma 57,Urology,36,240,Jaipur,Monday-Friday,Not Accepted,3.0,91,DOC00606
+Dr. Iyer 88,Vascular Surgery,17,955,Pune,Weekends,Accepted,3.5,643,DOC00012
+Dr. Sharma 14,General Medicine,27,521,Mumbai,Evenings,Not Accepted,4.1,242,DOC00220
+Dr. Rao 43,Orthopedics,28,873,Bangalore,Monday-Friday,Not Accepted,4.4,312,DOC00829
+Dr. Patel 89,Toxicology,9,222,Ahmedabad,Evenings,Not Accepted,1.3,570,DOC00831
+Dr. Sharma 94,Immunology,23,524,Hyderabad,Monday-Friday,Not Accepted,4.4,526,DOC00832
+Dr. Rao 53,Rheumatology,32,940,Kolkata,Weekends,Accepted,2.0,907,DOC00834
+Dr. Mehta 88,Rheumatology,21,816,Lucknow,Evenings,Not Accepted,4.8,317,DOC00623
+Dr. Mehta 18,Gastroenterology,30,432,Mumbai,Afternoon Shift,Not Accepted,4.9,279,DOC00766
+Dr. Iyer 19,Immunology,17,792,Hyderabad,Evenings,Not Accepted,4.5,824,DOC00759
+Dr. Rao 52,Infectious Disease,36,395,Mumbai,Monday-Friday,Accepted,2.7,901,DOC00745
+Dr. Sharma 84,Vascular Surgery,29,811,Jaipur,Weekends,Accepted,4.8,621,DOC00835
+Dr. Iyer 26,Dermatology,14,978,Lucknow,Monday-Friday,Not Accepted,1.9,787,DOC00836
+Dr. Patel 32,Cardiology,30,939,Ahmedabad,Weekends,Accepted,3.9,181,DOC00837
+Dr. Mehta 91,Gastroenterology,7,813,Kolkata,Monday-Friday,Accepted,4.2,597,DOC00839
+Dr. Sharma 54,Dermatology,36,403,Delhi,Monday-Friday,Not Accepted,1.5,966,DOC00840
+Dr. Sharma 24,Pulmonology,11,390,Kolkata,Weekends,Not Accepted,4.6,398,DOC00338
+Dr. Mehta 3,Neurology,1,845,Delhi,Monday-Friday,Not Accepted,4.9,815,DOC00196
+Dr. Rao 58,Endocrinology,17,569,Bangalore,Weekends,Not Accepted,1.7,931,DOC00841
+Dr. Patel 8,Pulmonology,37,447,Bangalore,Afternoon Shift,Accepted,3.8,901,DOC00691
+Dr. Sharma 27,Gastroenterology,21,445,Jaipur,Monday-Friday,Not Accepted,2.4,494,DOC00170
+Dr. Rao 24,Infectious Disease,10,854,Chennai,Afternoon Shift,Accepted,2.4,124,DOC00843
+Dr. Patel 53,General Medicine,39,556,Ahmedabad,Evenings,Accepted,2.2,942,DOC00844
+Dr. Rao 13,General Medicine,20,643,Jaipur,Monday-Friday,Accepted,2.8,329,DOC00424
+Dr. Rao 23,Cardiology,2,684,Hyderabad,Monday-Friday,Accepted,1.4,633,DOC00030
+Dr. Rao 6,Pulmonology,18,202,Lucknow,Evenings,Not Accepted,1.8,966,DOC00722
+Dr. Sharma 51,Orthopedics,16,330,Bangalore,Weekends,Accepted,1.7,371,DOC00846
+Dr. Sharma 88,Urology,28,692,Mumbai,Weekends,Not Accepted,3.8,555,DOC00814
+Dr. Iyer 53,Vascular Surgery,36,597,Bangalore,Weekends,Not Accepted,3.5,37,DOC00306
+Dr. Sharma 15,Endocrinology,36,317,Lucknow,Monday-Friday,Accepted,4.2,579,DOC00539
+Dr. Patel 78,Endocrinology,15,653,Ahmedabad,Afternoon Shift,Not Accepted,4.2,984,DOC00848
+Dr. Sharma 10,Urology,35,501,Mumbai,Afternoon Shift,Accepted,3.5,242,DOC00190
+Dr. Mehta 90,Orthopedics,39,809,Hyderabad,Weekends,Accepted,4.0,343,DOC00685
+Dr. Sharma 30,Vascular Surgery,25,468,Bangalore,Weekends,Accepted,2.4,631,DOC00849
+Dr. Patel 68,Infectious Disease,38,457,Mumbai,Monday-Friday,Accepted,3.1,149,DOC00823
+Dr. Patel 58,Infectious Disease,1,392,Kolkata,Monday-Friday,Accepted,2.6,904,DOC00850
+Dr. Rao 27,Rheumatology,13,780,Hyderabad,Afternoon Shift,Accepted,4.1,282,DOC00851
+Dr. Sharma 61,Vascular Surgery,19,494,Ahmedabad,Monday-Friday,Not Accepted,2.5,326,DOC00828
+Dr. Iyer 88,Infectious Disease,34,487,Mumbai,Afternoon Shift,Not Accepted,2.3,989,DOC00011
+Dr. Patel 72,Orthopedics,28,327,Delhi,Weekends,Accepted,2.7,506,DOC00853
+Dr. Sharma 46,Hepatology,32,684,Hyderabad,Afternoon Shift,Not Accepted,2.4,470,DOC00854
+Dr. Iyer 82,Gastroenterology,33,698,Mumbai,Afternoon Shift,Not Accepted,1.7,576,DOC00066
+Dr. Iyer 70,Rheumatology,11,681,Mumbai,Evenings,Accepted,5.0,129,DOC00857
+Dr. Patel 24,Gastroenterology,2,908,Ahmedabad,Evenings,Not Accepted,1.1,560,DOC00735
+Dr. Sharma 78,Endocrinology,8,565,Mumbai,Evenings,Accepted,1.9,971,DOC00858
+Dr. Iyer 65,Hepatology,22,332,Bangalore,Afternoon Shift,Accepted,4.4,280,DOC00860
+Dr. Iyer 1,General Medicine,13,364,Kolkata,Weekends,Not Accepted,1.3,896,DOC00687
+Dr. Iyer 75,Infectious Disease,10,286,Jaipur,Evenings,Not Accepted,4.5,948,DOC00861
+Dr. Mehta 16,Vascular Surgery,9,354,Mumbai,Monday-Friday,Not Accepted,1.6,441,DOC00754
+Dr. Mehta 42,Orthopedics,14,555,Delhi,Afternoon Shift,Not Accepted,4.1,683,DOC00019
+Dr. Sharma 88,Endocrinology,6,445,Bangalore,Weekends,Accepted,2.0,155,DOC00811
+Dr. Iyer 80,Gastroenterology,21,335,Mumbai,Weekends,Not Accepted,5.0,919,DOC00512
+Dr. Iyer 68,Toxicology,4,303,Jaipur,Monday-Friday,Accepted,2.7,924,DOC00185
+Dr. Patel 35,Endocrinology,32,908,Lucknow,Monday-Friday,Not Accepted,4.0,756,DOC00864
+Dr. Mehta 45,Pulmonology,21,763,Lucknow,Weekends,Not Accepted,1.0,722,DOC00750
+Dr. Sharma 25,Pulmonology,22,926,Jaipur,Afternoon Shift,Accepted,3.8,819,DOC00740
+Dr. Mehta 53,Hepatology,7,530,Lucknow,Weekends,Accepted,2.3,791,DOC00867
+Dr. Sharma 58,Urology,29,485,Pune,Monday-Friday,Accepted,2.1,187,DOC00137
+Dr. Mehta 66,Orthopedics,26,250,Kolkata,Weekends,Accepted,2.4,288,DOC00558
+Dr. Mehta 88,Infectious Disease,33,380,Pune,Evenings,Not Accepted,3.6,884,DOC00622
+Dr. Rao 82,Endocrinology,23,201,Chennai,Weekends,Accepted,3.4,20,DOC00783
+Dr. Rao 48,Gastroenterology,27,848,Ahmedabad,Weekends,Not Accepted,2.5,72,DOC00441
+Dr. Patel 97,Orthopedics,4,834,Delhi,Monday-Friday,Not Accepted,3.7,657,DOC00868
+Dr. Rao 42,Dermatology,21,926,Ahmedabad,Weekends,Accepted,4.2,65,DOC00280
+Dr. Sharma 68,Endocrinology,6,525,Kolkata,Weekends,Not Accepted,4.4,556,DOC00869
+Dr. Iyer 14,Endocrinology,32,820,Bangalore,Weekends,Not Accepted,2.2,241,DOC00525
+Dr. Mehta 33,Rheumatology,6,972,Bangalore,Weekends,Accepted,4.2,489,DOC00871
+Dr. Patel 10,Cardiology,4,240,Ahmedabad,Weekends,Not Accepted,4.9,737,DOC00873
+Dr. Rao 80,Endocrinology,5,826,Lucknow,Weekends,Accepted,1.7,966,DOC00875
+Dr. Rao 98,Urology,17,268,Kolkata,Afternoon Shift,Not Accepted,3.2,736,DOC00419
+Dr. Patel 52,Pulmonology,29,709,Mumbai,Monday-Friday,Not Accepted,3.9,217,DOC00878
+Dr. Sharma 38,Neurology,13,495,Delhi,Monday-Friday,Accepted,2.6,623,DOC00725
+Dr. Mehta 5,Cardiology,30,619,Hyderabad,Evenings,Not Accepted,3.9,105,DOC00709
+Dr. Rao 93,Rheumatology,24,896,Ahmedabad,Afternoon Shift,Not Accepted,1.2,458,DOC00615
+Dr. Iyer 27,Vascular Surgery,13,356,Hyderabad,Monday-Friday,Not Accepted,3.5,229,DOC00617
+Dr. Mehta 1,Endocrinology,21,204,Mumbai,Evenings,Accepted,2.3,86,DOC00402
+Dr. Sharma 63,Gastroenterology,5,719,Pune,Monday-Friday,Accepted,3.1,589,DOC00197
+Dr. Sharma 22,Rheumatology,3,742,Ahmedabad,Evenings,Not Accepted,4.2,278,DOC00663
+Dr. Rao 30,Infectious Disease,1,207,Lucknow,Evenings,Not Accepted,3.8,291,DOC00879
+Dr. Rao 79,Endocrinology,16,496,Jaipur,Evenings,Accepted,1.7,911,DOC00880
+Dr. Iyer 19,Gastroenterology,37,662,Ahmedabad,Monday-Friday,Not Accepted,2.6,128,DOC00758
+Dr. Iyer 44,Cardiology,24,752,Bangalore,Weekends,Accepted,3.6,258,DOC00659
+Dr. Mehta 86,Cardiology,10,841,Ahmedabad,Monday-Friday,Accepted,2.8,255,DOC00042
+Dr. Sharma 12,Hepatology,20,294,Mumbai,Monday-Friday,Accepted,3.7,730,DOC00545
+Dr. Sharma 29,Dermatology,36,614,Kolkata,Monday-Friday,Not Accepted,4.4,480,DOC00881
+Dr. Mehta 99,Urology,6,486,Pune,Weekends,Not Accepted,4.1,122,DOC00246
+Dr. Rao 88,Hepatology,8,241,Chennai,Monday-Friday,Accepted,1.5,862,DOC00882
+Dr. Iyer 15,Dermatology,37,593,Hyderabad,Evenings,Accepted,3.1,829,DOC00646
+Dr. Patel 48,General Medicine,1,506,Chennai,Evenings,Accepted,4.6,961,DOC00883
+Dr. Sharma 53,Orthopedics,3,615,Lucknow,Afternoon Shift,Accepted,4.8,499,DOC00511
+Dr. Rao 48,Rheumatology,3,450,Mumbai,Afternoon Shift,Accepted,1.7,651,DOC00442
+Dr. Patel 94,General Medicine,33,331,Chennai,Monday-Friday,Accepted,4.6,168,DOC00712
+Dr. Mehta 72,Vascular Surgery,17,842,Delhi,Afternoon Shift,Accepted,2.6,903,DOC00697
+Dr. Patel 30,Cardiology,16,542,Bangalore,Evenings,Not Accepted,1.3,506,DOC00884
+Dr. Iyer 45,Pulmonology,4,347,Pune,Afternoon Shift,Not Accepted,4.0,271,DOC00481
+Dr. Rao 29,Hepatology,15,592,Jaipur,Weekends,Not Accepted,4.1,841,DOC00887
+Dr. Iyer 89,Infectious Disease,37,360,Delhi,Weekends,Not Accepted,2.4,267,DOC00437
+Dr. Mehta 6,Dermatology,10,218,Ahmedabad,Afternoon Shift,Accepted,1.5,80,DOC00596
+Dr. Mehta 70,Rheumatology,23,523,Pune,Evenings,Not Accepted,1.5,345,DOC00273
+Dr. Sharma 90,Toxicology,20,388,Hyderabad,Weekends,Accepted,4.3,462,DOC00025
+Dr. Iyer 38,Toxicology,18,979,Pune,Weekends,Not Accepted,3.6,227,DOC00105
+Dr. Mehta 33,Hepatology,11,387,Ahmedabad,Weekends,Accepted,4.6,975,DOC00870
+Dr. Mehta 82,Pulmonology,36,386,Bangalore,Evenings,Not Accepted,3.1,358,DOC00132
+Dr. Sharma 58,Urology,25,238,Kolkata,Afternoon Shift,Not Accepted,4.5,723,DOC00137
+Dr. Mehta 72,General Medicine,36,798,Pune,Monday-Friday,Not Accepted,4.9,964,DOC00695
+Dr. Rao 90,Urology,31,603,Hyderabad,Evenings,Accepted,1.8,859,DOC00465
+Dr. Rao 93,Cardiology,39,504,Mumbai,Afternoon Shift,Not Accepted,2.1,980,DOC00612
+Dr. Patel 38,Gastroenterology,29,402,Chennai,Afternoon Shift,Accepted,4.6,825,DOC00888
+Dr. Mehta 16,Vascular Surgery,37,955,Mumbai,Monday-Friday,Accepted,2.2,936,DOC00754
+Dr. Patel 35,Toxicology,9,364,Ahmedabad,Evenings,Not Accepted,1.0,954,DOC00866
+Dr. Mehta 68,Dermatology,2,788,Bangalore,Monday-Friday,Not Accepted,3.6,533,DOC00889
+Dr. Patel 2,Endocrinology,7,446,Bangalore,Evenings,Not Accepted,2.4,272,DOC00891
+Dr. Iyer 54,General Medicine,16,658,Pune,Afternoon Shift,Accepted,4.4,668,DOC00704
+Dr. Patel 6,Urology,11,518,Ahmedabad,Evenings,Accepted,2.2,70,DOC00756
+Dr. Mehta 84,Gastroenterology,7,257,Kolkata,Evenings,Accepted,3.6,78,DOC00050
+Dr. Iyer 98,Rheumatology,7,588,Pune,Weekends,Accepted,1.0,737,DOC00892
+Dr. Rao 93,Rheumatology,39,939,Hyderabad,Weekends,Accepted,4.8,553,DOC00615
+Dr. Patel 46,Hepatology,26,963,Ahmedabad,Weekends,Accepted,4.9,826,DOC00893
+Dr. Patel 15,General Medicine,2,583,Bangalore,Weekends,Accepted,3.5,946,DOC00805
+Dr. Sharma 42,Infectious Disease,19,480,Bangalore,Monday-Friday,Accepted,1.3,359,DOC00108
+Dr. Rao 55,Cardiology,22,332,Kolkata,Afternoon Shift,Accepted,3.4,972,DOC00360
+Dr. Patel 56,Immunology,7,420,Lucknow,Evenings,Not Accepted,3.7,15,DOC00798
+Dr. Rao 17,Gastroenterology,25,871,Hyderabad,Monday-Friday,Not Accepted,4.9,359,DOC00895
+Dr. Mehta 79,Endocrinology,39,433,Ahmedabad,Weekends,Accepted,2.7,794,DOC00769
+Dr. Iyer 25,Endocrinology,17,880,Kolkata,Evenings,Accepted,2.4,449,DOC00896
+Dr. Sharma 96,Toxicology,13,879,Lucknow,Weekends,Not Accepted,3.7,762,DOC00293
+Dr. Patel 53,Infectious Disease,12,930,Jaipur,Evenings,Not Accepted,2.7,710,DOC00845
+Dr. Iyer 1,Hepatology,34,313,Pune,Afternoon Shift,Accepted,4.3,967,DOC00688
+Dr. Iyer 70,Cardiology,1,547,Lucknow,Weekends,Accepted,2.7,174,DOC00855
+Dr. Mehta 8,Infectious Disease,4,497,Bangalore,Afternoon Shift,Accepted,3.9,392,DOC00358
+Dr. Sharma 9,Dermatology,11,945,Ahmedabad,Afternoon Shift,Accepted,4.1,519,DOC00897
+Dr. Iyer 78,General Medicine,30,245,Delhi,Afternoon Shift,Not Accepted,4.0,228,DOC00153
+Dr. Rao 67,Rheumatology,5,812,Mumbai,Evenings,Accepted,3.3,232,DOC00899
+Dr. Mehta 65,Hepatology,10,454,Kolkata,Afternoon Shift,Accepted,3.9,25,DOC00900
+Dr. Mehta 78,Gastroenterology,28,482,Ahmedabad,Afternoon Shift,Accepted,2.3,807,DOC00443
+Dr. Patel 24,Toxicology,30,455,Pune,Monday-Friday,Not Accepted,2.7,731,DOC00736
+Dr. Rao 16,Neurology,18,546,Kolkata,Afternoon Shift,Not Accepted,1.2,495,DOC00763
+Dr. Sharma 90,Dermatology,1,555,Hyderabad,Monday-Friday,Not Accepted,4.9,310,DOC00022
+Dr. Patel 67,Endocrinology,11,775,Ahmedabad,Weekends,Accepted,4.7,645,DOC00901
+Dr. Iyer 66,Cardiology,39,212,Jaipur,Monday-Friday,Not Accepted,1.7,157,DOC00789
+Dr. Sharma 71,Orthopedics,16,201,Kolkata,Evenings,Not Accepted,2.6,29,DOC00902
+Dr. Mehta 57,Endocrinology,3,355,Jaipur,Evenings,Not Accepted,1.6,120,DOC00787
+Dr. Mehta 37,Immunology,2,975,Hyderabad,Weekends,Accepted,4.8,388,DOC00679
+Dr. Mehta 58,Cardiology,1,414,Kolkata,Weekends,Not Accepted,4.5,796,DOC00073
+Dr. Sharma 73,Cardiology,23,243,Kolkata,Weekends,Not Accepted,4.4,722,DOC00707
+Dr. Iyer 11,Immunology,5,860,Pune,Afternoon Shift,Not Accepted,4.2,253,DOC00350
+Dr. Iyer 69,Neurology,2,542,Lucknow,Evenings,Not Accepted,2.5,923,DOC00332
+Dr. Mehta 76,Dermatology,36,901,Mumbai,Monday-Friday,Accepted,1.3,880,DOC00308
+Dr. Mehta 59,Endocrinology,8,795,Kolkata,Evenings,Accepted,1.1,213,DOC00770
+Dr. Rao 13,Orthopedics,33,798,Ahmedabad,Evenings,Not Accepted,2.0,385,DOC00425
+Dr. Sharma 75,General Medicine,6,354,Mumbai,Monday-Friday,Not Accepted,2.6,688,DOC00368
+Dr. Mehta 68,Immunology,27,618,Hyderabad,Monday-Friday,Accepted,4.7,96,DOC00890
+Dr. Mehta 51,Urology,7,794,Lucknow,Weekends,Not Accepted,4.3,301,DOC00904
+Dr. Sharma 23,Vascular Surgery,12,592,Jaipur,Afternoon Shift,Not Accepted,4.3,578,DOC00905
+Dr. Iyer 21,Urology,23,616,Lucknow,Weekends,Not Accepted,1.6,202,DOC00906
+Dr. Iyer 10,Neurology,12,898,Jaipur,Weekends,Not Accepted,1.9,969,DOC00907
+Dr. Patel 69,Neurology,21,216,Kolkata,Afternoon Shift,Not Accepted,3.3,480,DOC00908
+Dr. Patel 59,Immunology,10,490,Jaipur,Afternoon Shift,Accepted,3.1,973,DOC00909
+Dr. Mehta 15,Pulmonology,6,647,Bangalore,Monday-Friday,Accepted,4.6,362,DOC00316
+Dr. Patel 29,General Medicine,29,244,Pune,Weekends,Not Accepted,2.0,440,DOC00910
+Dr. Mehta 27,General Medicine,35,262,Delhi,Weekends,Accepted,4.2,828,DOC00728
+Dr. Rao 69,Toxicology,29,323,Chennai,Afternoon Shift,Accepted,4.2,147,DOC00487
+Dr. Rao 19,Dermatology,6,894,Ahmedabad,Afternoon Shift,Accepted,2.9,661,DOC00819
+Dr. Patel 85,Urology,32,260,Kolkata,Weekends,Not Accepted,1.1,78,DOC00778
+Dr. Rao 5,Endocrinology,20,496,Chennai,Monday-Friday,Accepted,1.4,702,DOC00911
+Dr. Rao 77,General Medicine,36,428,Jaipur,Afternoon Shift,Not Accepted,2.0,618,DOC00912
+Dr. Patel 84,Dermatology,29,618,Mumbai,Monday-Friday,Accepted,2.1,313,DOC00914
+Dr. Mehta 82,Endocrinology,4,216,Pune,Evenings,Accepted,4.4,69,DOC00130
+Dr. Rao 76,Orthopedics,26,746,Kolkata,Weekends,Not Accepted,3.4,771,DOC00915
+Dr. Mehta 14,Gastroenterology,4,430,Delhi,Evenings,Not Accepted,1.6,746,DOC00433
+Dr. Iyer 49,Toxicology,19,763,Mumbai,Monday-Friday,Not Accepted,5.0,97,DOC00260
+Dr. Iyer 64,Gastroenterology,38,394,Jaipur,Monday-Friday,Not Accepted,2.7,703,DOC00916
+Dr. Iyer 66,Infectious Disease,10,523,Delhi,Afternoon Shift,Not Accepted,1.5,970,DOC00790
+Dr. Iyer 54,Cardiology,9,890,Mumbai,Evenings,Not Accepted,3.6,896,DOC00702
+Dr. Patel 24,Urology,21,500,Kolkata,Monday-Friday,Accepted,2.9,713,DOC00737
+Dr. Sharma 6,Orthopedics,25,818,Chennai,Evenings,Accepted,4.5,998,DOC00086
+Dr. Sharma 51,Rheumatology,32,892,Kolkata,Afternoon Shift,Not Accepted,3.6,410,DOC00847
+Dr. Patel 90,Gastroenterology,21,906,Kolkata,Evenings,Not Accepted,4.0,766,DOC00919
+Dr. Sharma 25,Toxicology,35,297,Delhi,Weekends,Not Accepted,3.2,399,DOC00741
+Dr. Iyer 68,Rheumatology,25,930,Pune,Monday-Friday,Not Accepted,1.6,946,DOC00184
+Dr. Sharma 15,Dermatology,15,599,Lucknow,Afternoon Shift,Not Accepted,2.3,384,DOC00538
+Dr. Sharma 74,Pulmonology,38,520,Pune,Monday-Friday,Accepted,4.1,841,DOC00523
+Dr. Iyer 46,Gastroenterology,38,777,Jaipur,Evenings,Accepted,1.4,622,DOC00576
+Dr. Mehta 23,Hepatology,38,595,Jaipur,Evenings,Not Accepted,2.9,52,DOC00517
+Dr. Sharma 14,Urology,29,545,Delhi,Afternoon Shift,Accepted,2.4,101,DOC00222
+Dr. Iyer 42,Infectious Disease,28,285,Jaipur,Evenings,Accepted,4.4,337,DOC00322
+Dr. Rao 40,Infectious Disease,17,394,Ahmedabad,Evenings,Accepted,3.7,956,DOC00449
+Dr. Sharma 24,Pulmonology,22,602,Kolkata,Evenings,Accepted,4.7,123,DOC00338
+Dr. Iyer 95,Cardiology,15,438,Pune,Monday-Friday,Not Accepted,3.3,281,DOC00636
+Dr. Mehta 91,Dermatology,31,538,Pune,Afternoon Shift,Not Accepted,4.8,959,DOC00838
+Dr. Sharma 95,Cardiology,7,606,Hyderabad,Weekends,Accepted,1.4,526,DOC00388
+Dr. Patel 33,General Medicine,10,950,Jaipur,Monday-Friday,Not Accepted,3.9,561,DOC00920
+Dr. Rao 81,Urology,4,353,Hyderabad,Monday-Friday,Accepted,4.8,490,DOC00921
+Dr. Mehta 31,Gastroenterology,37,966,Pune,Weekends,Not Accepted,2.8,990,DOC00748
+Dr. Iyer 93,Orthopedics,39,923,Mumbai,Monday-Friday,Not Accepted,2.9,610,DOC00922
+Dr. Mehta 55,Orthopedics,11,582,Lucknow,Evenings,Accepted,4.0,384,DOC00924
+Dr. Patel 62,Urology,28,736,Ahmedabad,Evenings,Not Accepted,1.9,685,DOC00925
+Dr. Mehta 42,Orthopedics,2,901,Jaipur,Afternoon Shift,Accepted,2.5,894,DOC00019
+Dr. Sharma 60,Rheumatology,39,444,Pune,Evenings,Not Accepted,2.2,527,DOC00571
+Dr. Sharma 40,Hepatology,4,371,Lucknow,Evenings,Accepted,3.9,165,DOC00926
+Dr. Iyer 16,Gastroenterology,27,740,Hyderabad,Evenings,Accepted,1.7,44,DOC00406
+Dr. Patel 31,Immunology,35,767,Hyderabad,Weekends,Not Accepted,1.9,807,DOC00927
+Dr. Rao 8,Vascular Surgery,36,819,Chennai,Evenings,Accepted,1.4,491,DOC00507
+Dr. Sharma 4,Infectious Disease,7,711,Ahmedabad,Afternoon Shift,Not Accepted,2.2,666,DOC00095
+Dr. Patel 45,Rheumatology,32,412,Delhi,Weekends,Accepted,4.8,247,DOC00929
+Dr. Sharma 63,Rheumatology,5,842,Kolkata,Afternoon Shift,Accepted,3.1,944,DOC00199
+Dr. Mehta 75,Cardiology,22,275,Jaipur,Monday-Friday,Accepted,3.2,355,DOC00145
+Dr. Mehta 31,Cardiology,19,348,Hyderabad,Afternoon Shift,Accepted,3.7,889,DOC00747
+Dr. Sharma 78,Urology,5,289,Kolkata,Monday-Friday,Not Accepted,4.7,36,DOC00859
+Dr. Rao 24,General Medicine,5,246,Bangalore,Monday-Friday,Not Accepted,4.8,788,DOC00842
+Dr. Iyer 23,Gastroenterology,38,675,Lucknow,Weekends,Accepted,4.7,335,DOC00299
+Dr. Iyer 19,Infectious Disease,16,385,Mumbai,Afternoon Shift,Not Accepted,4.7,916,DOC00760
+Dr. Mehta 11,Rheumatology,2,677,Ahmedabad,Monday-Friday,Not Accepted,3.9,212,DOC00581
+Dr. Rao 42,Hepatology,13,718,Hyderabad,Evenings,Not Accepted,3.0,927,DOC00281
+Dr. Patel 10,Gastroenterology,38,878,Hyderabad,Weekends,Accepted,2.8,802,DOC00874
+Dr. Rao 80,Neurology,3,823,Bangalore,Afternoon Shift,Not Accepted,4.2,149,DOC00876
+Dr. Sharma 88,Infectious Disease,10,892,Hyderabad,Evenings,Accepted,2.4,900,DOC00812
+Dr. Rao 31,Neurology,16,472,Lucknow,Evenings,Accepted,3.2,139,DOC00410
+Dr. Patel 35,Pulmonology,15,720,Jaipur,Monday-Friday,Accepted,2.3,225,DOC00865
+Dr. Mehta 15,Orthopedics,29,862,Ahmedabad,Evenings,Not Accepted,4.4,191,DOC00315
+Dr. Sharma 53,Hepatology,10,506,Mumbai,Afternoon Shift,Not Accepted,2.1,844,DOC00509
+Dr. Iyer 75,Pulmonology,3,546,Jaipur,Afternoon Shift,Not Accepted,1.3,373,DOC00862
+Dr. Mehta 34,Hepatology,21,851,Delhi,Afternoon Shift,Accepted,3.0,683,DOC00238
+Dr. Mehta 84,Dermatology,35,808,Bangalore,Evenings,Accepted,2.7,187,DOC00049
+Dr. Rao 27,Urology,25,848,Jaipur,Afternoon Shift,Accepted,2.9,465,DOC00852
+Dr. Patel 99,Toxicology,24,968,Hyderabad,Monday-Friday,Not Accepted,2.3,413,DOC00930
+Dr. Sharma 15,Pulmonology,28,727,Jaipur,Weekends,Accepted,1.9,760,DOC00541
+Dr. Patel 30,Orthopedics,11,802,Delhi,Monday-Friday,Not Accepted,1.8,755,DOC00885
+Dr. Mehta 63,Endocrinology,14,458,Pune,Afternoon Shift,Not Accepted,2.5,861,DOC00586
+Dr. Patel 46,Neurology,36,426,Hyderabad,Afternoon Shift,Not Accepted,3.2,238,DOC00894
+Dr. Iyer 50,Dermatology,30,600,Kolkata,Afternoon Shift,Accepted,3.9,654,DOC00147
+Dr. Sharma 67,Dermatology,37,243,Delhi,Afternoon Shift,Not Accepted,2.9,467,DOC00524
+Dr. Mehta 61,Gastroenterology,31,592,Kolkata,Evenings,Not Accepted,4.1,856,DOC00103
+Dr. Rao 40,Pulmonology,17,587,Lucknow,Evenings,Accepted,3.2,417,DOC00450
+Dr. Sharma 94,Rheumatology,35,757,Kolkata,Evenings,Not Accepted,4.3,587,DOC00833
+Dr. Iyer 58,Urology,35,969,Jaipur,Weekends,Accepted,4.7,468,DOC00931
+Dr. Patel 5,Pulmonology,8,361,Delhi,Afternoon Shift,Accepted,3.6,887,DOC00932
+Dr. Patel 90,Cardiology,16,998,Bangalore,Monday-Friday,Not Accepted,3.6,501,DOC00917
+Dr. Patel 23,Orthopedics,8,321,Delhi,Weekends,Not Accepted,5.0,159,DOC00933
+Dr. Mehta 97,Toxicology,18,438,Pune,Weekends,Accepted,1.2,580,DOC00934
+Dr. Sharma 95,Immunology,33,527,Hyderabad,Weekends,Accepted,5.0,954,DOC00390
+Dr. Iyer 89,Gastroenterology,6,728,Bangalore,Monday-Friday,Accepted,1.7,757,DOC00436
+Dr. Iyer 81,Endocrinology,36,931,Delhi,Evenings,Accepted,2.0,113,DOC00247
+Dr. Rao 1,Orthopedics,12,852,Lucknow,Evenings,Not Accepted,4.1,843,DOC00936
+Dr. Mehta 92,Urology,31,913,Delhi,Evenings,Accepted,4.1,92,DOC00082
+Dr. Mehta 10,Gastroenterology,25,866,Delhi,Evenings,Accepted,4.9,169,DOC00610
+Dr. Iyer 46,Cardiology,10,613,Bangalore,Afternoon Shift,Not Accepted,3.4,164,DOC00575
+Dr. Sharma 22,Endocrinology,2,737,Bangalore,Afternoon Shift,Accepted,1.4,820,DOC00661
+Dr. Iyer 92,Urology,31,252,Hyderabad,Afternoon Shift,Accepted,2.6,285,DOC00553
+Dr. Sharma 20,Gastroenterology,19,515,Hyderabad,Weekends,Accepted,1.5,746,DOC00302
+Dr. Iyer 70,Cardiology,19,712,Bangalore,Monday-Friday,Not Accepted,1.3,798,DOC00855
+Dr. Iyer 69,Orthopedics,11,252,Ahmedabad,Weekends,Accepted,2.7,706,DOC00333
+Dr. Sharma 31,Toxicology,32,472,Hyderabad,Weekends,Accepted,4.8,71,DOC00548
+Dr. Mehta 51,Infectious Disease,32,737,Ahmedabad,Evenings,Not Accepted,2.6,100,DOC00903
+Dr. Rao 1,Cardiology,37,518,Ahmedabad,Afternoon Shift,Accepted,3.9,619,DOC00935
+Dr. Patel 94,Vascular Surgery,31,899,Kolkata,Monday-Friday,Not Accepted,4.7,505,DOC00713
+Dr. Rao 82,Urology,39,272,Bangalore,Monday-Friday,Accepted,4.6,623,DOC00784
+Dr. Patel 90,Endocrinology,12,734,Ahmedabad,Weekends,Accepted,2.7,665,DOC00918
+Dr. Patel 56,Vascular Surgery,12,283,Pune,Afternoon Shift,Not Accepted,4.1,259,DOC00799
+Dr. Rao 63,Infectious Disease,26,261,Ahmedabad,Afternoon Shift,Accepted,1.0,812,DOC00937
+Dr. Mehta 84,Dermatology,36,695,Delhi,Evenings,Not Accepted,3.7,373,DOC00049
+Dr. Sharma 11,Dermatology,36,309,Ahmedabad,Weekends,Accepted,2.9,999,DOC00514
+Dr. Iyer 54,Endocrinology,2,201,Mumbai,Monday-Friday,Accepted,3.4,376,DOC00703
+Dr. Rao 55,Neurology,15,620,Ahmedabad,Monday-Friday,Accepted,4.3,617,DOC00362
+Dr. Rao 67,Orthopedics,28,342,Pune,Afternoon Shift,Accepted,3.5,599,DOC00898
+Dr. Mehta 49,Neurology,25,520,Kolkata,Afternoon Shift,Not Accepted,4.8,223,DOC00772
+Dr. Iyer 75,Urology,36,450,Delhi,Evenings,Accepted,4.9,369,DOC00863
+Dr. Rao 98,Vascular Surgery,35,947,Bangalore,Afternoon Shift,Accepted,3.4,393,DOC00420
+Dr. Iyer 50,Neurology,21,447,Kolkata,Weekends,Accepted,2.2,472,DOC00148
+Dr. Iyer 14,Endocrinology,11,321,Ahmedabad,Evenings,Accepted,4.0,839,DOC00525
+Dr. Sharma 41,Toxicology,35,244,Mumbai,Weekends,Not Accepted,4.8,708,DOC00803
+Dr. Iyer 93,Rheumatology,37,210,Bangalore,Afternoon Shift,Accepted,4.2,693,DOC00923
+Dr. Sharma 43,Vascular Surgery,4,627,Jaipur,Monday-Friday,Not Accepted,2.1,659,DOC00669
+Dr. Iyer 77,Endocrinology,5,500,Ahmedabad,Monday-Friday,Accepted,1.6,929,DOC00055
+Dr. Mehta 86,Hepatology,26,213,Delhi,Afternoon Shift,Not Accepted,4.8,992,DOC00043
+Dr. Mehta 88,Toxicology,24,979,Ahmedabad,Afternoon Shift,Not Accepted,4.4,352,DOC00624
+Dr. Sharma 5,Dermatology,32,585,Lucknow,Weekends,Not Accepted,4.2,408,DOC00673
+Dr. Rao 29,General Medicine,20,815,Chennai,Afternoon Shift,Accepted,2.4,416,DOC00886
+Dr. Mehta 4,Neurology,35,841,Kolkata,Weekends,Accepted,3.0,29,DOC00938
+Dr. Mehta 41,Dermatology,34,519,Pune,Afternoon Shift,Not Accepted,2.1,212,DOC00078
+Dr. Iyer 53,Gastroenterology,11,307,Delhi,Weekends,Not Accepted,3.3,582,DOC00305
+Dr. Patel 28,Neurology,37,981,Lucknow,Monday-Friday,Not Accepted,4.3,821,DOC00939
+Dr. Rao 46,Infectious Disease,23,312,Hyderabad,Evenings,Accepted,2.8,693,DOC00940
+Dr. Rao 37,Immunology,12,935,Pune,Afternoon Shift,Accepted,4.5,577,DOC00642
+Dr. Mehta 9,Toxicology,28,388,Bangalore,Afternoon Shift,Accepted,3.0,89,DOC00941
+Dr. Patel 81,Infectious Disease,5,388,Hyderabad,Evenings,Not Accepted,1.3,24,DOC00822
+Dr. Iyer 22,Neurology,37,216,Ahmedabad,Afternoon Shift,Accepted,1.4,975,DOC00005
+Dr. Rao 77,Pulmonology,23,711,Mumbai,Weekends,Accepted,3.9,696,DOC00913
+Dr. Iyer 1,Immunology,36,230,Jaipur,Afternoon Shift,Accepted,1.7,113,DOC00689
+Dr. Rao 79,Endocrinology,21,973,Lucknow,Weekends,Not Accepted,4.3,342,DOC00880
+Dr. Sharma 57,General Medicine,38,915,Lucknow,Monday-Friday,Not Accepted,3.1,739,DOC00604
+Dr. Patel 52,Cardiology,18,901,Lucknow,Monday-Friday,Accepted,1.3,489,DOC00877
+Dr. Mehta 25,Rheumatology,36,903,Delhi,Afternoon Shift,Accepted,2.4,595,DOC00093
+Dr. Iyer 11,Urology,28,550,Jaipur,Afternoon Shift,Not Accepted,1.7,761,DOC00352
+Dr. Iyer 64,Gastroenterology,39,516,Pune,Evenings,Not Accepted,4.8,634,DOC00916
+Dr. Mehta 6,Neurology,18,951,Bangalore,Weekends,Accepted,1.8,59,DOC00598
+Dr. Rao 43,Rheumatology,7,888,Ahmedabad,Weekends,Not Accepted,2.4,854,DOC00830
+Dr. Patel 37,Dermatology,8,498,Mumbai,Evenings,Accepted,4.0,650,DOC00942
+Dr. Patel 40,Dermatology,12,341,Chennai,Monday-Friday,Not Accepted,3.8,325,DOC00714
+Dr. Mehta 68,Dermatology,8,503,Delhi,Monday-Friday,Accepted,3.0,336,DOC00889
+Dr. Iyer 70,Pulmonology,24,352,Lucknow,Afternoon Shift,Not Accepted,4.7,497,DOC00856
+Dr. Iyer 72,Pulmonology,38,482,Hyderabad,Evenings,Accepted,2.5,448,DOC00629
+Dr. Sharma 89,Immunology,10,591,Delhi,Monday-Friday,Not Accepted,2.4,403,DOC00002
+Dr. Rao 85,Neurology,4,982,Jaipur,Monday-Friday,Not Accepted,2.6,693,DOC00943
+Dr. Sharma 41,Rheumatology,28,943,Delhi,Monday-Friday,Accepted,1.5,268,DOC00802
+Dr. Mehta 87,Endocrinology,7,418,Ahmedabad,Weekends,Accepted,2.4,577,DOC00157
+Dr. Rao 16,Dermatology,14,887,Jaipur,Afternoon Shift,Not Accepted,2.4,398,DOC00762
+Dr. Mehta 33,Vascular Surgery,17,863,Lucknow,Afternoon Shift,Not Accepted,2.6,151,DOC00872
+Dr. Mehta 69,General Medicine,27,822,Chennai,Weekends,Not Accepted,1.5,794,DOC00944
+Dr. Patel 31,Vascular Surgery,1,518,Kolkata,Afternoon Shift,Not Accepted,3.8,128,DOC00928
+Dr. Mehta 99,Rheumatology,24,788,Ahmedabad,Monday-Friday,Not Accepted,3.9,254,DOC00245
+Dr. Iyer 77,Neurology,21,787,Chennai,Monday-Friday,Accepted,4.3,360,DOC00057
+Dr. Mehta 13,Gastroenterology,21,709,Kolkata,Weekends,Accepted,4.7,173,DOC00945
+Dr. Rao 71,Orthopedics,5,719,Jaipur,Monday-Friday,Not Accepted,3.7,322,DOC00378

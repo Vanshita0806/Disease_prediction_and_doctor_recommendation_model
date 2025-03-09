@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommend a Doctor</title>
+    <link rel="stylesheet" href="recommend.css">
+</head>
+<body>
+    <div class = "container">
+        <h2>Find a Doctor</h2>
+    
+    <label for="disease">Select Disease:</label>
+    <select id="disease">
+        <option value="">Loading diseases...</option>
+    </select>
+    
+    <label for="location">Select Location:</label>
+    <select id="location">
+        <option value="">Loading locations...</option>
+    </select>
+    
+    <button onclick="getDoctors()">Find Doctors</button>
+
+    <div id="doctors"></div>
+    </div>
+    
+
+    <script>
+        // Fetch all diseases from FastAPI
+        fetch("http://127.0.0.1:8000/get_all_diseases")
+    .then(response => response.json())
+    .then(data => {
+        console.log("Fetched Data:", data); // Debugging
+
+        if (!data || !data.diseases || !Array.isArray(data.diseases)) {
+            console.error("Error: `diseases` is not an array", data);
+            document.getElementById("disease").innerHTML = `<option>Error loading diseases</option>`;
+            return;
+        }
+
+        let select = document.getElementById("disease");
+        select.innerHTML = `<option value="">Select a Disease</option>`;
+        
+        data.diseases.forEach(disease => {
+            select.innerHTML += `<option value="${disease}">${disease}</option>`;
+        });
+    })
+    .catch(error => {
+        console.error("Error fetching diseases:", error);
+        document.getElementById("disease").innerHTML = `<option>Error loading diseases</option>`;
+    });
+
+    fetch("http://127.0.0.1:8000/get_locations")  // API to fetch unique locations
+        .then(response => response.json())
+        .then(data => {
+            let select = document.getElementById("location");
+            select.innerHTML = `<option value="">Select a Location</option>`;
+            
+            data.locations.forEach(location => {
+                select.innerHTML += `<option value="${location}">${location}</option>`;
+            });
+        })
+        .catch(error => {
+            console.error("Error fetching locations:", error);
+            document.getElementById("location").innerHTML = `<option>Error loading locations</option>`;
+        });
+
+
+        // Fetch doctors based on selected disease
+        function getDoctors() {
+    let disease = document.getElementById("disease").value;
+    let location = document.getElementById("location").value; // Get selected location
+
+    if (!disease) {
+        alert("Please select a disease!");
+        return;
+    }
+
+    let apiUrl = `http://127.0.0.1:8000/recommend_doctor/?diseases=${disease}`;
+    if (location) {
+        apiUrl += `&location=${encodeURIComponent(location)}`; // Append location if selected
+    }
+
+    fetch(apiUrl)
+        .then(response => response.json())
+        .then(data => {
+            let doctorsDiv = document.getElementById("doctors");
+            doctorsDiv.innerHTML = "<h3>Recommended Doctors:</h3>";
+            doctorsDiv.style.display="block";
+
+            if (!data.recommendations[disease] || data.recommendations[disease].length === 0) {
+                doctorsDiv.innerHTML += "<p>No doctors available for this disease in the selected location.</p>";
+                return;
+            }
+
+            data.recommendations[disease].forEach(doctor => {
+                doctorsDiv.innerHTML += `
+                    <p><strong>Name:</strong> ${doctor["Doctor Name"]}</p>
+                    <p><strong>Location:</strong> ${doctor["Location"]}</p>
+                    <a href="doctor_detail.html?id=${doctor["Doctor ID"]}">
+                        <button>View Details</button>
+                    </a>
+                    <hr>
+                `;
+            });
+        })
+        .catch(error => {
+            console.error("Error fetching doctors:", error);
+            document.getElementById("doctors").innerHTML = "<p>Error loading doctors.</p>";
+        });
+}
+
+        
+    </script>
+</body>
+</html>
